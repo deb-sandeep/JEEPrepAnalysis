@@ -1,0 +1,1001 @@
+date_attempted,test_id,test_question_id,subject_name,question_type,topic_name,book_short_name,is_correct,root_cause,time_spent
+"2019-05-19 09:00:03",85267,85126,"IIT - Physics",SCA,"Work, Energy And Power","IIT Archives - Physics",1,NULL,209
+"2019-05-19 09:00:03",85267,80334,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,144
+"2019-05-19 09:00:03",85267,83101,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,53
+"2019-05-19 09:00:03",85267,85127,"IIT - Physics",SCA,"Work, Energy And Power","IIT Archives - Physics",1,NULL,222
+"2019-05-19 09:00:03",85267,85130,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,107
+"2019-05-19 09:00:03",85267,80285,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",1,NULL,62
+"2019-05-19 09:00:03",85267,80199,"IIT - Physics",SCA,Kinematics,"IIT Archives - Physics",1,NULL,113
+"2019-05-19 09:00:03",85267,85133,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,396
+"2019-05-19 09:00:03",85267,80291,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",1,NULL,61
+"2019-05-19 09:00:03",85267,80200,"IIT - Physics",SCA,Kinematics,"IIT Archives - Physics",1,NULL,123
+"2019-05-19 09:00:03",85267,80304,"IIT - Chemistry",SCA,"Atomic Structure","IIT Archives - Chemistry",1,NULL,38
+"2019-05-19 09:00:03",85267,80302,"IIT - Chemistry",SCA,"Atomic Structure","IIT Archives - Chemistry",1,NULL,12
+"2019-05-19 09:00:03",85267,80318,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,53
+"2019-05-19 09:00:03",85267,80322,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,62
+"2019-05-19 09:00:03",85267,80344,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,16
+"2019-05-19 09:00:03",85267,80346,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,30
+"2019-05-19 09:00:03",85267,82000,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,26
+"2019-05-19 09:00:03",85267,82011,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",0,RECOLLECTION,207
+"2019-05-19 09:00:03",85267,85135,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","IIT Archives - Chemistry",1,NULL,76
+"2019-05-19 09:00:03",85267,85134,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","IIT Archives - Chemistry",1,NULL,67
+"2019-05-19 09:00:03",85267,80276,"IIT - Maths",SCA,"Sets, Relations And Functions","IIT Archives - Maths",1,NULL,81
+"2019-05-19 09:00:03",85267,80327,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,153
+"2019-05-19 09:00:03",85267,80324,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,75
+"2019-05-19 09:00:03",85267,80281,"IIT - Maths",SCA,"Sets, Relations And Functions","IIT Archives - Maths",1,NULL,39
+"2019-05-19 09:00:03",85267,82380,"IIT - Maths",SCA,"Quadratic Equations","IIT Archives - Maths",0,LATERAL,227
+"2019-05-19 09:00:03",85267,80238,"IIT - Maths",SCA,Trigonometry,"Das Gupta",1,NULL,153
+"2019-05-19 09:00:03",85267,80235,"IIT - Maths",SCA,Trigonometry,"Das Gupta",0,LATERAL,480
+"2019-05-19 09:00:03",85267,82013,"IIT - Maths",SCA,"Continuity And Differentiability","IIT Archives - Maths",1,NULL,46
+"2019-05-19 09:00:03",85267,82014,"IIT - Maths",SCA,"Continuity And Differentiability","IIT Archives - Maths",1,NULL,122
+"2019-05-19 09:00:03",85267,82015,"IIT - Maths",SCA,"Continuity And Differentiability","IIT Archives - Maths",0,LATERAL,147
+"2019-05-26 09:00:01",86112,85123,"IIT - Physics",SCA,"Work, Energy And Power","IIT Archives - Physics",1,NULL,70
+"2019-05-26 09:00:01",86112,80201,"IIT - Physics",SCA,Kinematics,"IIT Archives - Physics",1,NULL,127
+"2019-05-26 09:00:01",86112,80209,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,NULL,182
+"2019-05-26 09:00:01",86112,85122,"IIT - Physics",SCA,"Work, Energy And Power","IIT Archives - Physics",1,NULL,15
+"2019-05-26 09:00:01",86112,80290,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",1,NULL,78
+"2019-05-26 09:00:01",86112,80283,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",1,NULL,60
+"2019-05-26 09:00:01",86112,83107,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,27
+"2019-05-26 09:00:01",86112,85132,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,248
+"2019-05-26 09:00:01",86112,85129,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,67
+"2019-05-26 09:00:01",86112,83105,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",0,CONCEPT,134
+"2019-05-26 09:00:01",86112,85136,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","IIT Archives - Chemistry",1,NULL,162
+"2019-05-26 09:00:01",86112,81997,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,19
+"2019-05-26 09:00:01",86112,80310,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,28
+"2019-05-26 09:00:01",86112,80313,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,12
+"2019-05-26 09:00:01",86112,80314,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,52
+"2019-05-26 09:00:01",86112,80301,"IIT - Chemistry",SCA,"Atomic Structure","IIT Archives - Chemistry",0,STUPID,52
+"2019-05-26 09:00:01",86112,80347,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,26
+"2019-05-26 09:00:01",86112,80341,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,37
+"2019-05-26 09:00:01",86112,82010,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,65
+"2019-05-26 09:00:01",86112,85137,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","IIT Archives - Chemistry",1,NULL,50
+"2019-05-26 09:00:01",86112,80326,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,144
+"2019-05-26 09:00:01",86112,82385,"IIT - Maths",SCA,"Quadratic Equations","IIT Archives - Maths",1,NULL,442
+"2019-05-26 09:00:01",86112,80275,"IIT - Maths",SCA,"Sets, Relations And Functions","IIT Archives - Maths",1,NULL,105
+"2019-05-26 09:00:01",86112,80279,"IIT - Maths",SCA,"Sets, Relations And Functions","IIT Archives - Maths",1,NULL,117
+"2019-05-26 09:00:01",86112,80236,"IIT - Maths",SCA,Trigonometry,"Das Gupta",1,NULL,98
+"2019-05-26 09:00:01",86112,80232,"IIT - Maths",SCA,Trigonometry,"IIT Archives - Maths",1,NULL,33
+"2019-05-26 09:00:01",86112,80329,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,161
+"2019-05-26 09:00:01",86112,82012,"IIT - Maths",SCA,"Continuity And Differentiability","IIT Archives - Maths",1,NULL,247
+"2019-05-26 09:00:01",86112,82016,"IIT - Maths",SCA,"Continuity And Differentiability","IIT Archives - Maths",1,NULL,90
+"2019-05-26 09:00:01",86112,82379,"IIT - Maths",SCA,"Quadratic Equations","IIT Archives - Maths",0,WTF_LATERAL,652
+"2019-06-02 09:00:06",86824,80288,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",1,NULL,50
+"2019-06-02 09:00:06",86824,85121,"IIT - Physics",SCA,"Work, Energy And Power","IIT Archives - Physics",1,NULL,34
+"2019-06-02 09:00:06",86824,83077,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",0,CONCEPT,317
+"2019-06-02 09:00:06",86824,80294,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",1,NULL,57
+"2019-06-02 09:00:06",86824,80207,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,NULL,101
+"2019-06-02 09:00:06",86824,86158,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,124
+"2019-06-02 09:00:06",86824,80211,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,NULL,126
+"2019-06-02 09:00:06",86824,86161,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,68
+"2019-06-02 09:00:06",86824,85116,"IIT - Physics",SCA,"Work, Energy And Power","IIT Archives - Physics",1,NULL,211
+"2019-06-02 09:00:06",86824,83106,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",0,INTERPRETATION,219
+"2019-06-02 09:00:06",86824,80195,"IIT - Physics",SCA,Kinematics,"IIT Archives - Physics",1,NULL,389
+"2019-06-02 09:00:06",86824,83098,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,84
+"2019-06-02 09:00:06",86824,85118,"IIT - Physics",SCA,"Work, Energy And Power","IIT Archives - Physics",1,NULL,149
+"2019-06-02 09:00:06",86824,85128,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,168
+"2019-06-02 09:00:06",86824,80293,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",1,NULL,113
+"2019-06-02 09:00:06",86824,80299,"IIT - Chemistry",SCA,"Atomic Structure","IIT Archives - Chemistry",1,NULL,15
+"2019-06-02 09:00:06",86824,80298,"IIT - Chemistry",SCA,"Atomic Structure","IIT Archives - Chemistry",1,NULL,16
+"2019-06-02 09:00:06",86824,80303,"IIT - Chemistry",SCA,"Atomic Structure","IIT Archives - Chemistry",1,NULL,9
+"2019-06-02 09:00:06",86824,86279,"IIT - Chemistry",SCA,"Periodic Table","YG File 1 - 2019",0,CONCEPT,17
+"2019-06-02 09:00:06",86824,86280,"IIT - Chemistry",SCA,"Periodic Table","YG File 1 - 2019",1,NULL,70
+"2019-06-02 09:00:06",86824,80320,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,36
+"2019-06-02 09:00:06",86824,80339,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,10
+"2019-06-02 09:00:06",86824,80340,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,38
+"2019-06-02 09:00:06",86824,80342,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,12
+"2019-06-02 09:00:06",86824,82003,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,9
+"2019-06-02 09:00:06",86824,82005,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,11
+"2019-06-02 09:00:06",86824,82009,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",0,ALIEN_CONCEPT,82
+"2019-06-02 09:00:06",86824,86276,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,212
+"2019-06-02 09:00:06",86824,86278,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,194
+"2019-06-02 09:00:06",86824,86277,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,294
+"2019-06-02 09:00:06",86824,80278,"IIT - Maths",SCA,"Sets, Relations And Functions","IIT Archives - Maths",1,NULL,64
+"2019-06-02 09:00:06",86824,86389,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",1,NULL,322
+"2019-06-02 09:00:06",86824,86391,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",1,NULL,166
+"2019-06-02 09:00:06",86824,80230,"IIT - Maths",SCA,Trigonometry,"IIT Archives - Maths",1,NULL,123
+"2019-06-02 09:00:06",86824,86367,"IIT - Maths",SCA,Trigonometry,"YG File 1 - 2019",0,LATERAL,281
+"2019-06-02 09:00:06",86824,86376,"IIT - Maths",SCA,"Sets, Relations And Functions","YG File 1 - 2019",1,NULL,106
+"2019-06-02 09:00:06",86824,86380,"IIT - Maths",SCA,Limits,"YG File 1 - 2019",1,NULL,84
+"2019-06-02 09:00:06",86824,86377,"IIT - Maths",SCA,"Sets, Relations And Functions","YG File 1 - 2019",1,NULL,126
+"2019-06-02 09:00:06",86824,86379,"IIT - Maths",SCA,Limits,"YG File 1 - 2019",1,NULL,111
+"2019-06-02 09:00:06",86824,86390,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",1,NULL,143
+"2019-06-02 09:00:06",86824,86621,"IIT - Maths",SCA,"Continuity And Differentiability","IIT Archives - Maths",1,NULL,94
+"2019-06-02 09:00:06",86824,80223,"IIT - Maths",SCA,Trigonometry,"IIT Archives - Maths",1,NULL,219
+"2019-06-02 09:00:06",86824,80325,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,115
+"2019-06-02 09:00:06",86824,86624,"IIT - Maths",SCA,"Continuity And Differentiability","IIT Archives - Maths",0,CONCEPT,115
+"2019-06-02 09:00:06",86824,86382,"IIT - Maths",SCA,"Continuity And Differentiability","YG File 1 - 2019",1,NULL,96
+"2019-06-09 08:59:59",87545,87131,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,STUPID,65
+"2019-06-09 08:59:59",87545,83099,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,62
+"2019-06-09 08:59:59",87545,80289,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",0,CALCULATION,303
+"2019-06-09 08:59:59",87545,87524,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,NULL,79
+"2019-06-09 08:59:59",87545,83103,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,305
+"2019-06-09 08:59:59",87545,87533,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,NULL,154
+"2019-06-09 08:59:59",87545,80282,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",0,RECOLLECTION,277
+"2019-06-09 08:59:59",87545,87214,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,NULL,150
+"2019-06-09 08:59:59",87545,80218,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,NULL,146
+"2019-06-09 08:59:59",87545,80215,"IIT - Physics",SCA,Kinematics,Brilliant-2,0,LATERAL,310
+"2019-06-09 08:59:59",87545,87222,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,RECOLLECTION,60
+"2019-06-09 08:59:59",87545,87210,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,LATERAL,13
+"2019-06-09 08:59:59",87545,87133,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,NULL,149
+"2019-06-09 08:59:59",87545,87523,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,NULL,198
+"2019-06-09 08:59:59",87545,87215,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,WTF_LATERAL,103
+"2019-06-09 08:59:59",87545,80319,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,32
+"2019-06-09 08:59:59",87545,80317,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,59
+"2019-06-09 08:59:59",87545,80312,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,66
+"2019-06-09 08:59:59",87545,87540,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",1,NULL,213
+"2019-06-09 08:59:59",87545,80345,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,13
+"2019-06-09 08:59:59",87545,87544,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","GMP 1718",1,NULL,16
+"2019-06-09 08:59:59",87545,87543,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","GMP 1718",0,ALIEN_CONCEPT,106
+"2019-06-09 08:59:59",87545,82001,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,12
+"2019-06-09 08:59:59",87545,81996,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,17
+"2019-06-09 08:59:59",87545,81999,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",0,STUPID,6
+"2019-06-09 08:59:59",87545,87538,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",1,NULL,185
+"2019-06-09 08:59:59",87545,87542,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",1,NULL,71
+"2019-06-09 08:59:59",87545,86202,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,305
+"2019-06-09 08:59:59",87545,86210,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,75
+"2019-06-09 08:59:59",87545,86207,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",0,CALCULATION,321
+"2019-06-09 08:59:59",87545,84202,"IIT - Maths",SCA,"Differential Calculus","IIT Archives - Maths",0,WTF,83
+"2019-06-09 08:59:59",87545,86392,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",0,WTF,126
+"2019-06-09 08:59:59",87545,86393,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",1,NULL,80
+"2019-06-09 08:59:59",87545,86383,"IIT - Maths",SCA,"Continuity And Differentiability","YG File 1 - 2019",1,NULL,279
+"2019-06-09 08:59:59",87545,86622,"IIT - Maths",SCA,"Continuity And Differentiability","IIT Archives - Maths",1,NULL,66
+"2019-06-09 08:59:59",87545,86623,"IIT - Maths",SCA,"Continuity And Differentiability","IIT Archives - Maths",0,CALCULATION,92
+"2019-06-09 08:59:59",87545,80277,"IIT - Maths",SCA,"Sets, Relations And Functions","IIT Archives - Maths",1,NULL,118
+"2019-06-09 08:59:59",87545,80280,"IIT - Maths",SCA,"Sets, Relations And Functions","IIT Archives - Maths",1,NULL,65
+"2019-06-09 08:59:59",87545,87234,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",0,CONCEPT,125
+"2019-06-09 08:59:59",87545,80332,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,40
+"2019-06-09 08:59:59",87545,80330,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",0,LATERAL,137
+"2019-06-09 08:59:59",87545,86373,"IIT - Maths",SCA,Trigonometry,"YG File 1 - 2019",1,NULL,47
+"2019-06-09 08:59:59",87545,84194,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,22
+"2019-06-09 08:59:59",87545,84277,"IIT - Maths",SCA,"Differential Calculus","IIT Archives - Maths",0,LATERAL,111
+"2019-06-09 08:59:59",87545,84279,"IIT - Maths",SCA,"Differential Calculus","IIT Archives - Maths",1,NULL,138
+"2019-06-16 09:00:01",88357,87218,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,NULL,66
+"2019-06-16 09:00:01",88357,87132,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,NULL,269
+"2019-06-16 09:00:01",88357,80196,"IIT - Physics",SCA,Kinematics,"IIT Archives - Physics",1,NULL,252
+"2019-06-16 09:00:01",88357,85120,"IIT - Physics",SCA,"Work, Energy And Power","IIT Archives - Physics",1,NULL,226
+"2019-06-16 09:00:01",88357,85117,"IIT - Physics",SCA,"Work, Energy And Power","IIT Archives - Physics",1,NULL,56
+"2019-06-16 09:00:01",88357,83104,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,38
+"2019-06-16 09:00:01",88357,87526,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,NULL,131
+"2019-06-16 09:00:01",88357,87527,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,NULL,116
+"2019-06-16 09:00:01",88357,83100,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,69
+"2019-06-16 09:00:01",88357,87219,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,NULL,148
+"2019-06-16 09:00:01",88357,83102,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,111
+"2019-06-16 09:00:01",88357,85131,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,56
+"2019-06-16 09:00:01",88357,87530,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,NULL,111
+"2019-06-16 09:00:01",88357,80202,"IIT - Physics",SCA,Kinematics,"IIT Archives - Physics",0,LATERAL,245
+"2019-06-16 09:00:01",88357,87528,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,NULL,42
+"2019-06-16 09:00:01",88357,80203,"IIT - Physics",SCA,Kinematics,"IIT Archives - Physics",1,NULL,214
+"2019-06-16 09:00:01",88357,86160,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,88
+"2019-06-16 09:00:01",88357,83095,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,85
+"2019-06-16 09:00:01",88357,80284,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",1,NULL,196
+"2019-06-16 09:00:01",88357,80198,"IIT - Physics",SCA,Kinematics,"IIT Archives - Physics",1,NULL,113
+"2019-06-16 09:00:01",88357,87842,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,129
+"2019-06-16 09:00:01",88357,86201,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,96
+"2019-06-16 09:00:01",88357,87799,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",0,WTF,180
+"2019-06-16 09:00:01",88357,87800,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,NULL,133
+"2019-06-16 09:00:01",88357,85138,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","IIT Archives - Chemistry",1,NULL,59
+"2019-06-16 09:00:01",88357,87840,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,41
+"2019-06-16 09:00:01",88357,87843,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,178
+"2019-06-16 09:00:01",88357,87833,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,41
+"2019-06-16 09:00:01",88357,82021,"IIT - Chemistry",SCA,"P - Block Elements","IIT Archives - Chemistry",1,NULL,21
+"2019-06-16 09:00:01",88357,81995,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,51
+"2019-06-16 09:00:01",88357,87535,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",1,NULL,8
+"2019-06-16 09:00:01",88357,87541,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",1,NULL,61
+"2019-06-16 09:00:01",88357,80323,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,11
+"2019-06-16 09:00:01",88357,80321,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,109
+"2019-06-16 09:00:01",88357,80315,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,28
+"2019-06-16 09:00:01",88357,80307,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,12
+"2019-06-16 09:00:01",88357,80343,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,25
+"2019-06-16 09:00:01",88357,86281,"IIT - Chemistry",SCA,"S - Block Elements","YG File 1 - 2019",0,ALIEN_CONCEPT,20
+"2019-06-16 09:00:01",88357,80297,"IIT - Chemistry",SCA,"Atomic Structure","IIT Archives - Chemistry",1,NULL,21
+"2019-06-16 09:00:01",88357,80296,"IIT - Chemistry",SCA,"Atomic Structure","IIT Archives - Chemistry",1,NULL,9
+"2019-06-16 09:00:01",88357,86381,"IIT - Maths",SCA,"Continuity And Differentiability","YG File 1 - 2019",1,NULL,304
+"2019-06-16 09:00:01",88357,86368,"IIT - Maths",SCA,Trigonometry,"YG File 1 - 2019",1,NULL,507
+"2019-06-16 09:00:01",88357,80274,"IIT - Maths",SCA,"Sets, Relations And Functions","IIT Archives - Maths",1,NULL,44
+"2019-06-16 09:00:01",88357,88353,"IIT - Maths",SCA,Limits,"Rank Booster",1,NULL,131
+"2019-06-16 09:00:01",88357,86384,"IIT - Maths",SCA,"Continuity And Differentiability","YG File 1 - 2019",1,NULL,130
+"2019-06-16 09:00:01",88357,87860,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",0,CALCULATION,113
+"2019-06-16 09:00:01",88357,87856,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,NULL,93
+"2019-06-16 09:00:01",88357,86366,"IIT - Maths",SCA,Trigonometry,"YG File 1 - 2019",0,LENGTHY,135
+"2019-06-16 09:00:01",88357,88354,"IIT - Maths",SCA,Limits,"Rank Booster",0,CONCEPT,36
+"2019-06-16 09:00:01",88357,87866,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,NULL,296
+"2019-06-16 09:00:01",88357,87246,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,NULL,241
+"2019-06-16 09:00:01",88357,88349,"IIT - Maths",SCA,Limits,"Rank Booster",0,RECOLLECTION,416
+"2019-06-16 09:00:01",88357,84278,"IIT - Maths",SCA,"Differential Calculus","IIT Archives - Maths",1,NULL,133
+"2019-06-16 09:00:01",88357,80229,"IIT - Maths",SCA,Trigonometry,"IIT Archives - Maths",1,NULL,147
+"2019-06-16 09:00:01",88357,84280,"IIT - Maths",SCA,"Differential Calculus","IIT Archives - Maths",1,NULL,160
+"2019-06-16 09:00:01",88357,87865,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,NULL,183
+"2019-06-16 09:00:01",88357,87228,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",0,CALCULATION,79
+"2019-06-16 09:00:01",88357,87231,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,NULL,21
+"2019-06-16 09:00:01",88357,87236,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",0,CALCULATION,85
+"2019-06-16 09:00:01",88357,87247,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,NULL,81
+"2019-06-23 08:59:57",88853,88842,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,NULL,118
+"2019-06-23 08:59:57",88853,88844,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,NULL,198
+"2019-06-23 08:59:57",88853,80295,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",1,NULL,42
+"2019-06-23 08:59:57",88853,87129,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,NULL,181
+"2019-06-23 08:59:57",88853,83093,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,35
+"2019-06-23 08:59:57",88853,88843,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,NULL,111
+"2019-06-23 08:59:57",88853,80333,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,NULL,46
+"2019-06-23 08:59:57",88853,83097,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",0,INTERPRETATION,58
+"2019-06-23 08:59:57",88853,80206,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,NULL,128
+"2019-06-23 08:59:57",88853,87213,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,NULL,125
+"2019-06-23 08:59:57",88853,87216,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,NULL,58
+"2019-06-23 08:59:57",88853,87211,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,NULL,133
+"2019-06-23 08:59:57",88853,87531,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,NULL,75
+"2019-06-23 08:59:57",88853,87532,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,NULL,67
+"2019-06-23 08:59:57",88853,87534,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,NULL,141
+"2019-06-23 08:59:57",88853,87130,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,NULL,73
+"2019-06-23 08:59:57",88853,87220,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,RECOLLECTION,124
+"2019-06-23 08:59:57",88853,86162,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,48
+"2019-06-23 08:59:57",88853,80204,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,NULL,327
+"2019-06-23 08:59:57",88853,80205,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,NULL,125
+"2019-06-23 08:59:57",88853,86204,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,193
+"2019-06-23 08:59:57",88853,86203,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,17
+"2019-06-23 08:59:57",88853,86206,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,189
+"2019-06-23 08:59:57",88853,86208,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",0,LENGTHY,258
+"2019-06-23 08:59:57",88853,86209,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,142
+"2019-06-23 08:59:57",88853,87838,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,92
+"2019-06-23 08:59:57",88853,87536,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",1,NULL,57
+"2019-06-23 08:59:57",88853,87537,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",1,NULL,54
+"2019-06-23 08:59:57",88853,87539,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",0,CALCULATION,41
+"2019-06-23 08:59:57",88853,80308,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,74
+"2019-06-23 08:59:57",88853,80309,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,41
+"2019-06-23 08:59:57",88853,80311,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,43
+"2019-06-23 08:59:57",88853,80337,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,17
+"2019-06-23 08:59:57",88853,80338,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","IIT Archives - Chemistry",1,NULL,9
+"2019-06-23 08:59:57",88853,82002,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,40
+"2019-06-23 08:59:57",88853,82004,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,30
+"2019-06-23 08:59:57",88853,81998,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,11
+"2019-06-23 08:59:57",88853,82006,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,136
+"2019-06-23 08:59:57",88853,82018,"IIT - Chemistry",SCA,"P - Block Elements","IIT Archives - Chemistry",1,NULL,10
+"2019-06-23 08:59:57",88853,82019,"IIT - Chemistry",SCA,"P - Block Elements","IIT Archives - Chemistry",1,NULL,7
+"2019-06-23 08:59:57",88853,87225,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,NULL,214
+"2019-06-23 08:59:57",88853,87250,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,NULL,124
+"2019-06-23 08:59:57",88853,87249,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,WTF,330
+"2019-06-23 08:59:57",88853,87251,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,NULL,70
+"2019-06-23 08:59:57",88853,87861,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,NULL,128
+"2019-06-23 08:59:57",88853,87870,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",0,LENGTHY,330
+"2019-06-23 08:59:57",88853,87867,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,NULL,146
+"2019-06-23 08:59:57",88853,84195,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,107
+"2019-06-23 08:59:57",88853,86370,"IIT - Maths",SCA,Trigonometry,"YG File 1 - 2019",1,NULL,71
+"2019-06-23 08:59:57",88853,87237,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,NULL,68
+"2019-06-23 08:59:57",88853,84198,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,93
+"2019-06-23 08:59:57",88853,87230,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,NULL,642
+"2019-06-23 08:59:57",88853,84281,"IIT - Maths",SCA,"Differential Calculus","IIT Archives - Maths",1,NULL,36
+"2019-06-23 08:59:57",88853,84197,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,90
+"2019-06-23 08:59:57",88853,87226,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,NULL,172
+"2019-06-23 08:59:57",88853,80228,"IIT - Maths",SCA,Trigonometry,"IIT Archives - Maths",1,NULL,86
+"2019-06-23 08:59:57",88853,86387,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",0,ALIEN_CONCEPT,228
+"2019-06-23 08:59:57",88853,80331,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,103
+"2019-06-23 08:59:57",88853,86388,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",1,NULL,341
+"2019-06-23 08:59:57",88853,80227,"IIT - Maths",SCA,Trigonometry,"IIT Archives - Maths",1,NULL,146
+"2019-06-30 09:00:00",90699,80197,"IIT - Physics",SCA,Kinematics,"IIT Archives - Physics",1,NULL,231
+"2019-06-30 09:00:00",90699,80216,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,NULL,243
+"2019-06-30 09:00:00",90699,89155,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,NULL,83
+"2019-06-30 09:00:00",90699,89947,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,NULL,37
+"2019-06-30 09:00:00",90699,80222,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,NULL,246
+"2019-06-30 09:00:00",90699,89156,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,NULL,33
+"2019-06-30 09:00:00",90699,90027,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,NULL,79
+"2019-06-30 09:00:00",90699,80212,"IIT - Physics",SCA,Kinematics,Brilliant-2,0,INTERPRETATION,40
+"2019-06-30 09:00:00",90699,90000,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,WTF,269
+"2019-06-30 09:00:00",90699,89948,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,NULL,113
+"2019-06-30 09:00:00",90699,90009,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,NULL,142
+"2019-06-30 09:00:00",90699,90029,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,NULL,141
+"2019-06-30 09:00:00",90699,90001,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,NULL,141
+"2019-06-30 09:00:00",90699,90026,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,NULL,98
+"2019-06-30 09:00:00",90699,89967,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,NULL,327
+"2019-06-30 09:00:00",90699,90002,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,WTF,264
+"2019-06-30 09:00:00",90699,90003,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,LENGTHY,451
+"2019-06-30 09:00:00",90699,89968,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",0,CONCEPT,67
+"2019-06-30 09:00:00",90699,89999,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,CALCULATION,111
+"2019-06-30 09:00:00",90699,89966,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",0,CALCULATION,270
+"2019-06-30 09:00:00",90699,89961,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,WTF,110
+"2019-06-30 09:00:00",90699,89965,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",0,LENGTHY,174
+"2019-06-30 09:00:00",90699,89959,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,NULL,43
+"2019-06-30 09:00:00",90699,89984,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,NULL,73
+"2019-06-30 09:00:00",90699,89958,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,NULL,82
+"2019-06-30 09:00:00",90699,89988,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,NULL,207
+"2019-06-30 09:00:00",90699,88846,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,NULL,22
+"2019-06-30 09:00:00",90699,89987,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,NULL,213
+"2019-06-30 09:00:00",90699,89978,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,NULL,144
+"2019-06-30 09:00:00",90699,89992,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,NULL,55
+"2019-06-30 09:00:00",90699,86205,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",1,NULL,74
+"2019-06-30 09:00:00",90699,87801,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,NULL,120
+"2019-06-30 09:00:00",90699,87804,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",0,CALCULATION,113
+"2019-06-30 09:00:00",90699,87802,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",0,CALCULATION,400
+"2019-06-30 09:00:00",90699,87803,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,NULL,85
+"2019-06-30 09:00:00",90699,90532,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,NULL,64
+"2019-06-30 09:00:00",90699,90535,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,NULL,30
+"2019-06-30 09:00:00",90699,90540,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,NULL,44
+"2019-06-30 09:00:00",90699,90544,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,NULL,117
+"2019-06-30 09:00:00",90699,90549,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",0,CONCEPT,97
+"2019-06-30 09:00:00",90699,90365,"IIT - Chemistry",SCA,"Atomic Structure","Rank Booster",0,CALCULATION,65
+"2019-06-30 09:00:00",90699,90368,"IIT - Chemistry",SCA,"Atomic Structure","Rank Booster",1,NULL,32
+"2019-06-30 09:00:00",90699,90367,"IIT - Chemistry",SCA,"Atomic Structure","Rank Booster",1,NULL,10
+"2019-06-30 09:00:00",90699,90363,"IIT - Chemistry",SCA,"Atomic Structure","Rank Booster",0,CALCULATION,34
+"2019-06-30 09:00:00",90699,80305,"IIT - Chemistry",SCA,"Atomic Structure","IIT Archives - Chemistry",1,NULL,11
+"2019-06-30 09:00:00",90699,80300,"IIT - Chemistry",SCA,"Atomic Structure","IIT Archives - Chemistry",1,NULL,53
+"2019-06-30 09:00:00",90699,80306,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",0,CONCEPT,73
+"2019-06-30 09:00:00",90699,80316,"IIT - Chemistry",SCA,"Periodic Table","IIT Archives - Chemistry",1,NULL,79
+"2019-06-30 09:00:00",90699,90522,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,NULL,117
+"2019-06-30 09:00:00",90699,90035,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",0,RECOLLECTION,21
+"2019-06-30 09:00:00",90699,90523,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,NULL,24
+"2019-06-30 09:00:00",90699,90528,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",0,ALIEN_CONCEPT,19
+"2019-06-30 09:00:00",90699,90529,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,NULL,104
+"2019-06-30 09:00:00",90699,90510,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,46
+"2019-06-30 09:00:00",90699,90511,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,72
+"2019-06-30 09:00:00",90699,90481,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,NULL,24
+"2019-06-30 09:00:00",90699,90345,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",0,LENGTHY,57
+"2019-06-30 09:00:00",90699,90346,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",0,CALCULATION,456
+"2019-06-30 09:00:00",90699,90347,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",1,NULL,122
+"2019-06-30 09:00:00",90699,90348,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",0,CALCULATION,147
+"2019-06-30 09:00:00",90699,90569,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,NULL,115
+"2019-06-30 09:00:00",90699,90600,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",0,INTERPRETATION,130
+"2019-06-30 09:00:00",90699,90573,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,CONCEPT,197
+"2019-06-30 09:00:00",90699,90581,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,RECOLLECTION,65
+"2019-06-30 09:00:00",90699,90598,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",0,LATERAL,147
+"2019-06-30 09:00:00",90699,90690,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",0,LATERAL,230
+"2019-06-30 09:00:00",90699,90691,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,NULL,49
+"2019-06-30 09:00:00",90699,90577,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,CONCEPT,56
+"2019-06-30 09:00:00",90699,90692,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,NULL,220
+"2019-06-30 09:00:00",90699,90595,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,NULL,216
+"2019-06-30 09:00:00",90699,90693,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,NULL,121
+"2019-06-30 09:00:00",90699,90596,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",0,CONCEPT,146
+"2019-06-30 09:00:00",90699,80234,"IIT - Maths",SCA,Trigonometry,"Das Gupta",1,NULL,35
+"2019-06-30 09:00:00",90699,80233,"IIT - Maths",SCA,Trigonometry,"Das Gupta",1,NULL,106
+"2019-06-30 09:00:00",90699,80231,"IIT - Maths",SCA,Trigonometry,"IIT Archives - Maths",1,NULL,79
+"2019-06-30 09:00:00",90699,80226,"IIT - Maths",SCA,Trigonometry,"IIT Archives - Maths",1,NULL,33
+"2019-06-30 09:00:00",90699,80225,"IIT - Maths",SCA,Trigonometry,"IIT Archives - Maths",1,NULL,64
+"2019-06-30 09:00:00",90699,80224,"IIT - Maths",SCA,Trigonometry,"IIT Archives - Maths",1,NULL,112
+"2019-06-30 09:00:00",90699,87868,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,NULL,145
+"2019-06-30 09:00:00",90699,80328,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,NULL,57
+"2019-06-30 09:00:00",90699,88346,"IIT - Maths",SCA,Limits,"Rank Booster",1,NULL,126
+"2019-06-30 09:00:00",90699,87227,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,NULL,63
+"2019-06-30 09:00:00",90699,88347,"IIT - Maths",SCA,Limits,"Rank Booster",1,NULL,103
+"2019-06-30 09:00:00",90699,87232,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,NULL,51
+"2019-06-30 09:00:00",90699,88350,"IIT - Maths",SCA,Limits,"Rank Booster",1,NULL,111
+"2019-06-30 09:00:00",90699,89951,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",0,CALCULATION,119
+"2019-06-30 09:00:00",90699,84200,"IIT - Maths",SCA,"Differential Calculus","IIT Archives - Maths",1,NULL,173
+"2019-06-30 09:00:00",90699,88348,"IIT - Maths",SCA,Limits,"Rank Booster",0,WTF,365
+"2019-06-30 09:00:00",90699,84201,"IIT - Maths",SCA,"Differential Calculus","IIT Archives - Maths",1,NULL,104
+"2019-06-30 09:00:00",90699,87872,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,NULL,43
+"2019-07-07 09:00:03",92072,80292,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",0,CONCEPT,229
+"2019-07-07 09:00:03",92072,80286,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",0,CONCEPT,130
+"2019-07-07 09:00:03",92072,88848,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,NULL,179
+"2019-07-07 09:00:03",92072,91574,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,NULL,75
+"2019-07-07 09:00:03",92072,91638,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,NULL,132
+"2019-07-07 09:00:03",92072,90007,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,NULL,73
+"2019-07-07 09:00:03",92072,91569,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,NULL,18
+"2019-07-07 09:00:03",92072,89962,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,NULL,99
+"2019-07-07 09:00:03",92072,89960,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,LATERAL,213
+"2019-07-07 09:00:03",92072,89995,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,NULL,24
+"2019-07-07 09:00:03",92072,89997,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,CONCEPT,115
+"2019-07-07 09:00:03",92072,89964,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",0,INTERPRETATION,149
+"2019-07-07 09:00:03",92072,90019,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,NULL,121
+"2019-07-07 09:00:03",92072,89981,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,NULL,105
+"2019-07-07 09:00:03",92072,89996,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,NULL,33
+"2019-07-07 09:00:03",92072,86157,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,NULL,102
+"2019-07-07 09:00:03",92072,91597,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,NULL,86
+"2019-07-07 09:00:03",92072,91643,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,NULL,80
+"2019-07-07 09:00:03",92072,90012,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",0,CONCEPT,229
+"2019-07-07 09:00:03",92072,89990,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,NULL,39
+"2019-07-07 09:00:03",92072,91552,"IIT - Physics",SCA,Kinematics,"Rank Booster",0,LENGTHY,210
+"2019-07-07 09:00:03",92072,89994,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,NULL,212
+"2019-07-07 09:00:03",92072,87212,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,NULL,89
+"2019-07-07 09:00:03",92072,91648,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,NULL,197
+"2019-07-07 09:00:03",92072,89977,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,NULL,155
+"2019-07-07 09:00:03",92072,91636,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",0,CALCULATION,204
+"2019-07-07 09:00:03",92072,89971,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,NULL,171
+"2019-07-07 09:00:03",92072,89159,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,NULL,146
+"2019-07-07 09:00:03",92072,80210,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,NULL,125
+"2019-07-07 09:00:03",92072,89989,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,NULL,170
+"2019-07-07 09:00:03",92072,90503,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,NULL,106
+"2019-07-07 09:00:03",92072,86282,"IIT - Chemistry",SCA,"S - Block Elements","YG File 1 - 2019",0,RECOLLECTION,68
+"2019-07-07 09:00:03",92072,82017,"IIT - Chemistry",SCA,"P - Block Elements","IIT Archives - Chemistry",1,NULL,20
+"2019-07-07 09:00:03",92072,82008,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,NULL,25
+"2019-07-07 09:00:03",92072,90480,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",0,RECOLLECTION,23
+"2019-07-07 09:00:03",92072,90478,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,NULL,17
+"2019-07-07 09:00:03",92072,87841,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,68
+"2019-07-07 09:00:03",92072,87834,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,42
+"2019-07-07 09:00:03",92072,87836,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,26
+"2019-07-07 09:00:03",92072,87806,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,NULL,106
+"2019-07-07 09:00:03",92072,90520,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",0,RECOLLECTION,60
+"2019-07-07 09:00:03",92072,90531,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",0,RECOLLECTION,27
+"2019-07-07 09:00:03",92072,90501,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,NULL,28
+"2019-07-07 09:00:03",92072,90487,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,NULL,39
+"2019-07-07 09:00:03",92072,90484,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,NULL,15
+"2019-07-07 09:00:03",92072,90506,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,NULL,31
+"2019-07-07 09:00:03",92072,90536,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,NULL,94
+"2019-07-07 09:00:03",92072,87805,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,NULL,234
+"2019-07-07 09:00:03",92072,90507,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",0,ALIEN_CONCEPT,60
+"2019-07-07 09:00:03",92072,90360,"IIT - Chemistry",SCA,"Atomic Structure","Rank Booster",0,CALCULATION,285
+"2019-07-07 09:00:03",92072,90350,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",1,NULL,194
+"2019-07-07 09:00:03",92072,90505,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,NULL,98
+"2019-07-07 09:00:03",92072,90519,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,NULL,43
+"2019-07-07 09:00:03",92072,90530,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,NULL,171
+"2019-07-07 09:00:03",92072,90537,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",0,ALIEN_CONCEPT,51
+"2019-07-07 09:00:03",92072,90534,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,NULL,284
+"2019-07-07 09:00:03",92072,90369,"IIT - Chemistry",SCA,"Atomic Structure","Rank Booster",1,NULL,136
+"2019-07-07 09:00:03",92072,90354,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",0,LENGTHY,87
+"2019-07-07 09:00:03",92072,90340,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",0,LENGTHY,218
+"2019-07-07 09:00:03",92072,90358,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",1,NULL,69
+"2019-07-07 09:00:03",92072,90694,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",0,WTF,228
+"2019-07-07 09:00:03",92072,91884,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",0,CONCEPT,130
+"2019-07-07 09:00:03",92072,90570,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,NULL,209
+"2019-07-07 09:00:03",92072,90589,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,NULL,177
+"2019-07-07 09:00:03",92072,90685,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,NULL,170
+"2019-07-07 09:00:03",92072,89954,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",0,CALCULATION,279
+"2019-07-07 09:00:03",92072,91887,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,NULL,97
+"2019-07-07 09:00:03",92072,90571,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,NULL,99
+"2019-07-07 09:00:03",92072,90590,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,NULL,108
+"2019-07-07 09:00:03",92072,91893,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,NULL,214
+"2019-07-07 09:00:03",92072,91982,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",0,LENGTHY,170
+"2019-07-07 09:00:03",92072,91983,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",0,LENGTHY,226
+"2019-07-07 09:00:03",92072,87224,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",0,CALCULATION,71
+"2019-07-07 09:00:03",92072,90679,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,NULL,158
+"2019-07-07 09:00:03",92072,91672,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,NULL,155
+"2019-07-07 09:00:03",92072,88352,"IIT - Maths",SCA,Limits,"Rank Booster",1,NULL,103
+"2019-07-07 09:00:03",92072,91940,"IIT - Maths",SCA,Limits,"Rank Booster",1,NULL,173
+"2019-07-07 09:00:03",92072,87229,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,NULL,100
+"2019-07-07 09:00:03",92072,89950,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",0,CALCULATION,39
+"2019-07-07 09:00:03",92072,91880,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,NULL,209
+"2019-07-07 09:00:03",92072,91980,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",0,CALCULATION,227
+"2019-07-07 09:00:03",92072,91688,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,NULL,65
+"2019-07-07 09:00:03",92072,91673,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,NULL,239
+"2019-07-07 09:00:03",92072,88351,"IIT - Maths",SCA,Limits,"Rank Booster",1,NULL,150
+"2019-07-07 09:00:03",92072,91957,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,NULL,32
+"2019-07-07 09:00:03",92072,90586,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,NULL,75
+"2019-07-07 09:00:03",92072,90567,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,NULL,27
+"2019-07-07 09:00:03",92072,91662,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,NULL,118
+"2019-07-07 09:00:03",92072,91663,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,NULL,65
+"2019-07-07 09:00:03",92072,87858,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,NULL,52
+"2019-07-14 09:00:02",93484,91551,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,180
+"2019-07-14 09:00:02",93484,89970,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,,146
+"2019-07-14 09:00:02",93484,91602,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,99
+"2019-07-14 09:00:02",93484,88845,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,320
+"2019-07-14 09:00:02",93484,80208,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,,242
+"2019-07-14 09:00:02",93484,91645,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,264
+"2019-07-14 09:00:02",93484,88851,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,70
+"2019-07-14 09:00:02",93484,91634,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,63
+"2019-07-14 09:00:02",93484,90030,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,217
+"2019-07-14 09:00:02",93484,88847,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",0,INTERPRETATION,30
+"2019-07-14 09:00:02",93484,89998,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,,356
+"2019-07-14 09:00:02",93484,91601,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,216
+"2019-07-14 09:00:02",93484,93432,"IIT - Physics",SCA,"Properties Of Solids And Liquids","Rank Booster",0,CONCEPT,36
+"2019-07-14 09:00:02",93484,91637,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,117
+"2019-07-14 09:00:02",93484,89985,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,,161
+"2019-07-14 09:00:02",93484,87217,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,LATERAL,175
+"2019-07-14 09:00:02",93484,89986,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,,210
+"2019-07-14 09:00:02",93484,91614,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,LENGTHY,158
+"2019-07-14 09:00:02",93484,91642,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,131
+"2019-07-14 09:00:02",93484,90006,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,341
+"2019-07-14 09:00:02",93484,89993,"IIT - Physics",SCA,Gravitation,"Rank Booster",1,,100
+"2019-07-14 09:00:02",93484,91576,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,LENGTHY,79
+"2019-07-14 09:00:02",93484,93433,"IIT - Physics",SCA,"Properties Of Solids And Liquids","Rank Booster",1,,78
+"2019-07-14 09:00:02",93484,91575,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,95
+"2019-07-14 09:00:02",93484,93411,"IIT - Physics",SCA,"Properties Of Solids And Liquids","Rank Booster",1,,128
+"2019-07-14 09:00:02",93484,89158,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,133
+"2019-07-14 09:00:02",93484,90015,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",0,WTF,100
+"2019-07-14 09:00:02",93484,91550,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,62
+"2019-07-14 09:00:02",93484,93425,"IIT - Physics",SCA,"Properties Of Solids And Liquids","Rank Booster",0,CONCEPT,34
+"2019-07-14 09:00:02",93484,90018,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,188
+"2019-07-14 09:00:02",93484,90542,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,150
+"2019-07-14 09:00:02",93484,90525,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,,77
+"2019-07-14 09:00:02",93484,90515,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,,93
+"2019-07-14 09:00:02",93484,93450,"IIT - Chemistry",SCA,Solutions,"Rank Booster",0,LENGTHY,53
+"2019-07-14 09:00:02",93484,90539,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,147
+"2019-07-14 09:00:02",93484,90502,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,,158
+"2019-07-14 09:00:02",93484,93455,"IIT - Chemistry",SCA,Solutions,"Rank Booster",0,LATERAL,225
+"2019-07-14 09:00:02",93484,93452,"IIT - Chemistry",SCA,Solutions,"Rank Booster",1,,69
+"2019-07-14 09:00:02",93484,90545,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,49
+"2019-07-14 09:00:02",93484,90495,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",0,CALCULATION,72
+"2019-07-14 09:00:02",93484,90483,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,,66
+"2019-07-14 09:00:02",93484,90504,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",0,WTF,37
+"2019-07-14 09:00:02",93484,90355,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",0,LENGTHY,270
+"2019-07-14 09:00:02",93484,90362,"IIT - Chemistry",SCA,"Atomic Structure","Rank Booster",1,,259
+"2019-07-14 09:00:02",93484,90512,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,,100
+"2019-07-14 09:00:02",93484,82023,"IIT - Chemistry",SCA,"P - Block Elements","IIT Archives - Chemistry",1,,27
+"2019-07-14 09:00:02",93484,90338,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",0,RECOLLECTION,64
+"2019-07-14 09:00:02",93484,90489,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,,33
+"2019-07-14 09:00:02",93484,90521,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,,31
+"2019-07-14 09:00:02",93484,93458,"IIT - Chemistry",SCA,Solutions,"Rank Booster",0,LENGTHY,349
+"2019-07-14 09:00:02",93484,93451,"IIT - Chemistry",SCA,Solutions,"Rank Booster",1,,158
+"2019-07-14 09:00:02",93484,90482,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",0,RECOLLECTION,37
+"2019-07-14 09:00:02",93484,87835,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,,38
+"2019-07-14 09:00:02",93484,90491,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,,94
+"2019-07-14 09:00:02",93484,82024,"IIT - Chemistry",SCA,"P - Block Elements","IIT Archives - Chemistry",1,,20
+"2019-07-14 09:00:02",93484,90033,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",0,WTF,56
+"2019-07-14 09:00:02",93484,90488,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",0,ALIEN_CONCEPT,31
+"2019-07-14 09:00:02",93484,90514,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,,79
+"2019-07-14 09:00:02",93484,90479,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",0,ALIEN_CONCEPT,81
+"2019-07-14 09:00:02",93484,90359,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",0,LENGTHY,152
+"2019-07-14 09:00:02",93484,91725,"IIT - Maths",SCA,Trigonometry,"Rank Booster",0,WTF,227
+"2019-07-14 09:00:02",93484,93385,"IIT - Maths",SCA,Logarithms,"Rank Booster",1,,153
+"2019-07-14 09:00:02",93484,93408,"IIT - Maths",SCA,Inequalities,"Rank Booster",0,CALCULATION,19
+"2019-07-14 09:00:02",93484,90584,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,37
+"2019-07-14 09:00:02",93484,90593,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",0,LENGTHY,114
+"2019-07-14 09:00:02",93484,91959,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,,43
+"2019-07-14 09:00:02",93484,87235,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,,36
+"2019-07-14 09:00:02",93484,90579,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,33
+"2019-07-14 09:00:02",93484,90684,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",0,LATERAL,233
+"2019-07-14 09:00:02",93484,91963,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",0,ALIEN_CONCEPT,35
+"2019-07-14 09:00:02",93484,90576,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,CALCULATION,210
+"2019-07-14 09:00:02",93484,91890,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,42
+"2019-07-14 09:00:02",93484,91678,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,72
+"2019-07-14 09:00:02",93484,93397,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,65
+"2019-07-14 09:00:02",93484,91898,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",0,LENGTHY,32
+"2019-07-14 09:00:02",93484,93396,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,179
+"2019-07-14 09:00:02",93484,93389,"IIT - Maths",SCA,Logarithms,"Rank Booster",1,,40
+"2019-07-14 09:00:02",93484,91984,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",1,,168
+"2019-07-14 09:00:02",93484,91733,"IIT - Maths",SCA,Trigonometry,"Rank Booster",0,LATERAL,147
+"2019-07-14 09:00:02",93484,92014,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",0,LATERAL,131
+"2019-07-14 09:00:02",93484,87238,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,,92
+"2019-07-14 09:00:02",93484,90686,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,,79
+"2019-07-14 09:00:02",93484,90585,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,25
+"2019-07-14 09:00:02",93484,91729,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,135
+"2019-07-14 09:00:02",93484,87869,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,101
+"2019-07-14 09:00:02",93484,93382,"IIT - Maths",SCA,Logarithms,"Rank Booster",1,,22
+"2019-07-14 09:00:02",93484,92056,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",1,,101
+"2019-07-14 09:00:02",93484,91892,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",0,CALCULATION,110
+"2019-07-14 09:00:02",93484,91985,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",0,LATERAL,262
+"2019-07-14 09:00:02",93484,90688,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",0,LATERAL,253
+"2019-07-21 09:00:01",95131,87221,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,166
+"2019-07-21 09:00:01",95131,87529,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",0,INTERPRETATION,78
+"2019-07-21 09:00:01",95131,93428,"IIT - Physics",SCA,"Properties Of Solids And Liquids","Rank Booster",1,,121
+"2019-07-21 09:00:01",95131,91553,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,216
+"2019-07-21 09:00:01",95131,93937,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,212
+"2019-07-21 09:00:01",95131,93875,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,48
+"2019-07-21 09:00:01",95131,90028,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",0,LATERAL,118
+"2019-07-21 09:00:01",95131,89982,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,76
+"2019-07-21 09:00:01",95131,90020,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,52
+"2019-07-21 09:00:01",95131,93829,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,,280
+"2019-07-21 09:00:01",95131,93831,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,LATERAL,69
+"2019-07-21 09:00:01",95131,93429,"IIT - Physics",SCA,"Properties Of Solids And Liquids","Rank Booster",0,RECOLLECTION,175
+"2019-07-21 09:00:01",95131,91633,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,173
+"2019-07-21 09:00:01",95131,93948,"IIT - Physics",SCA,Gravitation,"Rank Booster",0,CONCEPT,33
+"2019-07-21 09:00:01",95131,89991,"IIT - Physics",SCA,Gravitation,"Rank Booster",0,WTF,136
+"2019-07-21 09:00:01",95131,89957,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,100
+"2019-07-21 09:00:01",95131,89983,"IIT - Physics",SCA,Gravitation,"Rank Booster",0,INTERPRETATION,138
+"2019-07-21 09:00:01",95131,91557,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,51
+"2019-07-21 09:00:01",95131,87525,"IIT - Physics",SCA,"Rotational Motion","IIT Archives - Physics",1,,52
+"2019-07-21 09:00:01",95131,93939,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,28
+"2019-07-21 09:00:01",95131,80213,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,,66
+"2019-07-21 09:00:01",95131,86159,"IIT - Physics",SCA,Electrostatics,"IIT Archives - Physics",1,,41
+"2019-07-21 09:00:01",95131,93868,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,CONCEPT,47
+"2019-07-21 09:00:01",95131,90024,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",0,INTERPRETATION,50
+"2019-07-21 09:00:01",95131,93409,"IIT - Physics",SCA,"Properties Of Solids And Liquids","Rank Booster",0,LATERAL,381
+"2019-07-21 09:00:01",95131,93426,"IIT - Physics",SCA,"Properties Of Solids And Liquids","Rank Booster",1,,36
+"2019-07-21 09:00:01",95131,91585,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,92
+"2019-07-21 09:00:01",95131,91555,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,38
+"2019-07-21 09:00:01",95131,93779,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,287
+"2019-07-21 09:00:01",95131,80287,"IIT - Physics",SCA,"Currrent Electricity","IIT Archives - Physics",1,,37
+"2019-07-21 09:00:01",95131,90516,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,,41
+"2019-07-21 09:00:01",95131,90541,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,185
+"2019-07-21 09:00:01",95131,94032,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",0,RECOLLECTION,68
+"2019-07-21 09:00:01",95131,94353,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",0,CONCEPT,210
+"2019-07-21 09:00:01",95131,93454,"IIT - Chemistry",SCA,Solutions,"Rank Booster",0,ALIEN_CONCEPT,204
+"2019-07-21 09:00:01",95131,94110,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,,78
+"2019-07-21 09:00:01",95131,94072,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,105
+"2019-07-21 09:00:01",95131,94109,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,,337
+"2019-07-21 09:00:01",95131,94344,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",0,ALIEN_CONCEPT,273
+"2019-07-21 09:00:01",95131,94318,"IIT - Chemistry",SCA,"D - And F - Block Elements","Rank Booster",0,ALIEN_CONCEPT,39
+"2019-07-21 09:00:01",95131,93467,"IIT - Chemistry",SCA,Solutions,"Rank Booster",1,,26
+"2019-07-21 09:00:01",95131,93469,"IIT - Chemistry",SCA,Solutions,"Rank Booster",1,,90
+"2019-07-21 09:00:01",95131,90493,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,,21
+"2019-07-21 09:00:01",95131,90485,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,,52
+"2019-07-21 09:00:01",95131,94250,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,,22
+"2019-07-21 09:00:01",95131,90508,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,,12
+"2019-07-21 09:00:01",95131,82022,"IIT - Chemistry",SCA,"P - Block Elements","IIT Archives - Chemistry",1,,50
+"2019-07-21 09:00:01",95131,90527,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,,19
+"2019-07-21 09:00:01",95131,90526,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,,24
+"2019-07-21 09:00:01",95131,94302,"IIT - Chemistry",SCA,"D - And F - Block Elements","Rank Booster",0,ALIEN_CONCEPT,33
+"2019-07-21 09:00:01",95131,90361,"IIT - Chemistry",SCA,"Atomic Structure","Rank Booster",1,,65
+"2019-07-21 09:00:01",95131,90344,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",1,,110
+"2019-07-21 09:00:01",95131,90357,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",1,,117
+"2019-07-21 09:00:01",95131,90486,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,,45
+"2019-07-21 09:00:01",95131,90034,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,,51
+"2019-07-21 09:00:01",95131,90335,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",0,CALCULATION,76
+"2019-07-21 09:00:01",95131,94075,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,154
+"2019-07-21 09:00:01",95131,87839,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,,103
+"2019-07-21 09:00:01",95131,94306,"IIT - Chemistry",SCA,"D - And F - Block Elements","Rank Booster",1,,17
+"2019-07-21 09:00:01",95131,94346,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",1,,43
+"2019-07-21 09:00:01",95131,91687,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,163
+"2019-07-21 09:00:01",95131,91674,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,210
+"2019-07-21 09:00:01",95131,90599,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,,196
+"2019-07-21 09:00:01",95131,90566,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,213
+"2019-07-21 09:00:01",95131,93406,"IIT - Maths",SCA,Inequalities,"Rank Booster",1,,351
+"2019-07-21 09:00:01",95131,91988,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",1,,169
+"2019-07-21 09:00:01",95131,91667,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,637
+"2019-07-21 09:00:01",95131,91888,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,206
+"2019-07-21 09:00:01",95131,91883,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,81
+"2019-07-21 09:00:01",95131,90680,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,,65
+"2019-07-21 09:00:01",95131,92035,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",1,,105
+"2019-07-21 09:00:01",95131,93395,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,136
+"2019-07-21 09:00:01",95131,90677,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,,126
+"2019-07-21 09:00:01",95131,91915,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,257
+"2019-07-21 09:00:01",95131,91669,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,273
+"2019-07-21 09:00:01",95131,90687,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,,91
+"2019-07-21 09:00:01",95131,93381,"IIT - Maths",SCA,Logarithms,"Rank Booster",1,,151
+"2019-07-21 09:00:01",95131,91944,"IIT - Maths",SCA,Limits,"Rank Booster",0,CONCEPT,65
+"2019-07-21 09:00:01",95131,90588,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,,26
+"2019-07-21 09:00:01",95131,87857,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,,129
+"2019-07-21 09:00:01",95131,91897,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",0,ALIEN_CONCEPT,82
+"2019-07-21 09:00:01",95131,89952,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,,91
+"2019-07-21 09:00:01",95131,91941,"IIT - Maths",SCA,Limits,"Rank Booster",1,,18
+"2019-07-21 09:00:01",95131,91999,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",0,CALCULATION,265
+"2019-07-21 09:00:01",95131,91958,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,,48
+"2019-07-21 09:00:01",95131,84196,"IIT - Maths",SCA,Limits,"IIT Archives - Maths",1,,60
+"2019-07-21 09:00:01",95131,92010,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",1,,15
+"2019-07-21 09:00:01",95131,89955,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",0,LENGTHY,137
+"2019-07-21 09:00:01",95131,93392,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,CALCULATION,216
+"2019-07-21 09:00:01",95131,87245,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,LATERAL,151
+"2019-07-28 09:00:01",96056,80214,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,,42
+"2019-07-28 09:00:01",96056,93714,"IIT - Physics",SCA,Kinematics,"Rank Booster",0,LATERAL,64
+"2019-07-28 09:00:01",96056,88849,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,160
+"2019-07-28 09:00:01",96056,91616,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,LATERAL,68
+"2019-07-28 09:00:01",96056,93887,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,47
+"2019-07-28 09:00:01",96056,93410,"IIT - Physics",SCA,"Properties Of Solids And Liquids","Rank Booster",1,,72
+"2019-07-28 09:00:01",96056,93848,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,LATERAL,42
+"2019-07-28 09:00:01",96056,93690,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,57
+"2019-07-28 09:00:01",96056,85119,"IIT - Physics",SCA,"Work, Energy And Power","IIT Archives - Physics",0,LATERAL,172
+"2019-07-28 09:00:01",96056,89963,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,73
+"2019-07-28 09:00:01",96056,93777,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,64
+"2019-07-28 09:00:01",96056,93935,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,29
+"2019-07-28 09:00:01",96056,93936,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",0,CONCEPT,118
+"2019-07-28 09:00:01",96056,91572,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,159
+"2019-07-28 09:00:01",96056,91608,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,42
+"2019-07-28 09:00:01",96056,93892,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,94
+"2019-07-28 09:00:01",96056,91603,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,48
+"2019-07-28 09:00:01",96056,93890,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",0,LATERAL,193
+"2019-07-28 09:00:01",96056,91591,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,59
+"2019-07-28 09:00:01",96056,93725,"IIT - Physics",SCA,Kinematics,"Rank Booster",0,CONCEPT,133
+"2019-07-28 09:00:01",96056,91554,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,71
+"2019-07-28 09:00:01",96056,93874,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,136
+"2019-07-28 09:00:01",96056,90008,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",0,LATERAL,546
+"2019-07-28 09:00:01",96056,89157,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",0,CALCULATION,340
+"2019-07-28 09:00:01",96056,88852,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,63
+"2019-07-28 09:00:01",96056,93424,"IIT - Physics",SCA,"Properties Of Solids And Liquids","Rank Booster",0,ALIEN_CONCEPT,59
+"2019-07-28 09:00:01",96056,83096,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,,84
+"2019-07-28 09:00:01",96056,90004,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,LENGTHY,108
+"2019-07-28 09:00:01",96056,93884,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",0,INTERPRETATION,121
+"2019-07-28 09:00:01",96056,93849,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,LENGTHY,195
+"2019-07-28 09:00:01",96056,90533,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,188
+"2019-07-28 09:00:01",96056,90031,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,,71
+"2019-07-28 09:00:01",96056,90543,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",0,RECOLLECTION,276
+"2019-07-28 09:00:01",96056,90524,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,,23
+"2019-07-28 09:00:01",96056,87837,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,,13
+"2019-07-28 09:00:01",96056,94069,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,146
+"2019-07-28 09:00:01",96056,94084,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,28
+"2019-07-28 09:00:01",96056,94022,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",0,LATERAL,105
+"2019-07-28 09:00:01",96056,86275,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",0,LENGTHY,231
+"2019-07-28 09:00:01",96056,93449,"IIT - Chemistry",SCA,Solutions,"Rank Booster",1,,68
+"2019-07-28 09:00:01",96056,94374,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",1,,137
+"2019-07-28 09:00:01",96056,94311,"IIT - Chemistry",SCA,"D - And F - Block Elements","Rank Booster",1,,22
+"2019-07-28 09:00:01",96056,93456,"IIT - Chemistry",SCA,Solutions,"Rank Booster",1,,100
+"2019-07-28 09:00:01",96056,94106,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,,228
+"2019-07-28 09:00:01",96056,94372,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",1,,120
+"2019-07-28 09:00:01",96056,94070,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",0,ALIEN_CONCEPT,79
+"2019-07-28 09:00:01",96056,90364,"IIT - Chemistry",SCA,"Atomic Structure","Rank Booster",1,,151
+"2019-07-28 09:00:01",96056,93459,"IIT - Chemistry",SCA,Solutions,"Rank Booster",1,,164
+"2019-07-28 09:00:01",96056,94114,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,,98
+"2019-07-28 09:00:01",96056,94226,"IIT - Chemistry",SCA,Electrochemistry,"Rank Booster",1,,27
+"2019-07-28 09:00:01",96056,93447,"IIT - Chemistry",SCA,Solutions,"Rank Booster",1,,54
+"2019-07-28 09:00:01",96056,94379,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",1,,129
+"2019-07-28 09:00:01",96056,86274,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","YG File 1 - 2019",0,LENGTHY,39
+"2019-07-28 09:00:01",96056,94127,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,,64
+"2019-07-28 09:00:01",96056,94113,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",0,CONCEPT,156
+"2019-07-28 09:00:01",96056,94395,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",1,,72
+"2019-07-28 09:00:01",96056,94341,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",1,,137
+"2019-07-28 09:00:01",96056,94343,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",1,,191
+"2019-07-28 09:00:01",96056,94347,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",1,,172
+"2019-07-28 09:00:01",96056,94345,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",0,LENGTHY,128
+"2019-07-28 09:00:01",96056,93383,"IIT - Maths",SCA,Logarithms,"Rank Booster",1,,133
+"2019-07-28 09:00:01",96056,93405,"IIT - Maths",SCA,Inequalities,"Rank Booster",1,,79
+"2019-07-28 09:00:01",96056,91991,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",1,,181
+"2019-07-28 09:00:01",96056,91996,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",1,,183
+"2019-07-28 09:00:01",96056,92004,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",1,,241
+"2019-07-28 09:00:01",96056,92043,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",1,,73
+"2019-07-28 09:00:01",96056,92006,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",0,CALCULATION,102
+"2019-07-28 09:00:01",96056,91918,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",0,WTF,55
+"2019-07-28 09:00:01",96056,89953,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",0,LATERAL,88
+"2019-07-28 09:00:01",96056,91942,"IIT - Maths",SCA,Limits,"Rank Booster",1,,81
+"2019-07-28 09:00:01",96056,86369,"IIT - Maths",SCA,Trigonometry,"YG File 1 - 2019",0,LATERAL,268
+"2019-07-28 09:00:01",96056,80237,"IIT - Maths",SCA,Trigonometry,"Das Gupta",1,,12
+"2019-07-28 09:00:01",96056,91661,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,148
+"2019-07-28 09:00:01",96056,91695,"IIT - Maths",SCA,Trigonometry,"Rank Booster",0,RECOLLECTION,97
+"2019-07-28 09:00:01",96056,91727,"IIT - Maths",SCA,Trigonometry,"Rank Booster",0,LATERAL,211
+"2019-07-28 09:00:01",96056,91698,"IIT - Maths",SCA,Trigonometry,"Rank Booster",0,LATERAL,191
+"2019-07-28 09:00:01",96056,90683,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,,106
+"2019-07-28 09:00:01",96056,90682,"IIT - Maths",SCA,"Sequences And Series","Rank Booster",1,,97
+"2019-07-28 09:00:01",96056,90601,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,,41
+"2019-07-28 09:00:01",96056,90597,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,,18
+"2019-07-28 09:00:01",96056,93391,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,30
+"2019-07-28 09:00:01",96056,87248,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,LATERAL,129
+"2019-07-28 09:00:01",96056,93393,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,174
+"2019-07-28 09:00:01",96056,91728,"IIT - Maths",SCA,Trigonometry,"Rank Booster",0,LATERAL,299
+"2019-07-28 09:00:01",96056,93380,"IIT - Maths",SCA,Logarithms,"Rank Booster",1,,138
+"2019-07-28 09:00:01",96056,92049,"IIT - Maths",SCA,"Integral Calculus","Rank Booster",1,,257
+"2019-07-28 09:00:01",96056,91889,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",0,CALCULATION,155
+"2019-07-28 09:00:01",96056,91961,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,,79
+"2019-07-28 09:00:01",96056,90591,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,,116
+"2019-07-28 09:00:01",96056,91871,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",0,LENGTHY,142
+"2019-08-11 09:00:02",97652,91556,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,128
+"2019-08-11 09:00:02",97652,93720,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,61
+"2019-08-11 09:00:02",97652,80219,"IIT - Physics",SCA,Kinematics,Brilliant-2,0,CALCULATION,162
+"2019-08-11 09:00:02",97652,93724,"IIT - Physics",SCA,Kinematics,"Rank Booster",0,LATERAL,64
+"2019-08-11 09:00:02",97652,93778,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,123
+"2019-08-11 09:00:02",97652,90011,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,70
+"2019-08-11 09:00:02",97652,91577,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,110
+"2019-08-11 09:00:02",97652,91596,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,60
+"2019-08-11 09:00:02",97652,80336,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,,71
+"2019-08-11 09:00:02",97652,91587,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,48
+"2019-08-11 09:00:02",97652,91571,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,109
+"2019-08-11 09:00:02",97652,90016,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",0,CONCEPT,120
+"2019-08-11 09:00:02",97652,93785,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,70
+"2019-08-11 09:00:02",97652,91573,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,CALCULATION,75
+"2019-08-11 09:00:02",97652,93702,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,195
+"2019-08-11 09:00:02",97652,97625,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",0,CONCEPT,274
+"2019-08-11 09:00:02",97652,94247,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,,14
+"2019-08-11 09:00:02",97652,94128,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,,91
+"2019-08-11 09:00:02",97652,90477,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,,35
+"2019-08-11 09:00:02",97652,94249,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,,76
+"2019-08-11 09:00:02",97652,97616,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","GMP 1718",0,CALCULATION,31
+"2019-08-11 09:00:02",97652,97622,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",0,WTF,176
+"2019-08-11 09:00:02",97652,90366,"IIT - Chemistry",SCA,"Atomic Structure","Rank Booster",1,,81
+"2019-08-11 09:00:02",97652,97623,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",1,,114
+"2019-08-11 09:00:02",97652,94112,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",0,LATERAL,214
+"2019-08-11 09:00:02",97652,94248,"IIT - Chemistry",SCA,"S - Block Elements","Rank Booster",1,,78
+"2019-08-11 09:00:02",97652,97621,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",1,,67
+"2019-08-11 09:00:02",97652,82007,"IIT - Chemistry",SCA,"S - Block Elements","IIT Archives - Chemistry",1,,38
+"2019-08-11 09:00:02",97652,94111,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",0,WTF,134
+"2019-08-11 09:00:02",97652,97615,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","GMP 1718",1,,18
+"2019-08-11 09:00:02",97652,93400,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,145
+"2019-08-11 09:00:02",97652,97627,"IIT - Maths",SCA,Limits,"GMP 1718",0,LENGTHY,375
+"2019-08-11 09:00:02",97652,90583,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,LATERAL,78
+"2019-08-11 09:00:02",97652,90592,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",0,LATERAL,119
+"2019-08-11 09:00:02",97652,97638,"IIT - Maths",SCA,"Quadratic Equations","GMP 1718",0,LATERAL,150
+"2019-08-11 09:00:02",97652,97634,"IIT - Maths",SCA,"Sets, Relations And Functions","GMP 1718",1,,73
+"2019-08-11 09:00:02",97652,91934,"IIT - Maths",SCA,Limits,"Rank Booster",0,CALCULATION,122
+"2019-08-11 09:00:02",97652,91943,"IIT - Maths",SCA,Limits,"Rank Booster",1,,13
+"2019-08-11 09:00:02",97652,91933,"IIT - Maths",SCA,Limits,"Rank Booster",1,,122
+"2019-08-11 09:00:02",97652,97628,"IIT - Maths",SCA,Limits,"GMP 1718",1,,180
+"2019-08-11 09:00:02",97652,90594,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",0,CALCULATION,282
+"2019-08-11 09:00:02",97652,87859,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",0,LATERAL,274
+"2019-08-11 09:00:02",97652,97642,"IIT - Maths",SCA,"Quadratic Equations","GMP 1718",0,LATERAL,426
+"2019-08-11 09:00:02",97652,86378,"IIT - Maths",SCA,"Sets, Relations And Functions","YG File 1 - 2019",1,,83
+"2019-08-11 09:00:02",97652,90578,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,51
+"2019-08-18 08:59:51",98685,93821,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",0,CONCEPT,33
+"2019-08-18 08:59:51",98685,93703,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,99
+"2019-08-18 08:59:51",98685,91586,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,47
+"2019-08-18 08:59:51",98685,91595,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,CALCULATION,164
+"2019-08-18 08:59:51",98685,93820,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",0,LATERAL,20
+"2019-08-18 08:59:51",98685,90010,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,144
+"2019-08-18 08:59:51",98685,80220,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,,194
+"2019-08-18 08:59:51",98685,80217,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,,173
+"2019-08-18 08:59:51",98685,91599,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,50
+"2019-08-18 08:59:51",98685,91610,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,219
+"2019-08-18 08:59:51",98685,93789,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,156
+"2019-08-18 08:59:51",98685,80221,"IIT - Physics",SCA,Kinematics,Brilliant-2,1,,734
+"2019-08-18 08:59:51",98685,91594,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,92
+"2019-08-18 08:59:51",98685,83094,"IIT - Physics",SCA,"Laws Of Motion","IIT Archives - Physics",1,,81
+"2019-08-18 08:59:51",98685,91568,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,23
+"2019-08-18 08:59:51",98685,98375,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure",Brilliant,1,,30
+"2019-08-18 08:59:51",98685,98245,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,44
+"2019-08-18 08:59:51",98685,98280,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry",Brilliant,1,,52
+"2019-08-18 08:59:51",98685,98673,"IIT - Chemistry",SCA,"S - Block Elements",Brilliant,1,,47
+"2019-08-18 08:59:51",98685,98675,"IIT - Chemistry",SCA,"S - Block Elements",Brilliant,0,WTF,17
+"2019-08-18 08:59:51",98685,98355,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure",Brilliant,0,ALIEN_CONCEPT,20
+"2019-08-18 08:59:51",98685,98672,"IIT - Chemistry",SCA,"S - Block Elements",Brilliant,1,,14
+"2019-08-18 08:59:51",98685,98291,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry",Brilliant,1,,131
+"2019-08-18 08:59:51",98685,98218,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,11
+"2019-08-18 08:59:51",98685,98359,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure",Brilliant,1,,13
+"2019-08-18 08:59:51",98685,98293,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry",Brilliant,1,,89
+"2019-08-18 08:59:51",98685,97620,"IIT - Chemistry",SCA,"Atomic Structure","GMP 1718",1,,54
+"2019-08-18 08:59:51",98685,90517,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure","Rank Booster",1,,40
+"2019-08-18 08:59:51",98685,98229,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,187
+"2019-08-18 08:59:51",98685,98228,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,67
+"2019-08-18 08:59:51",98685,93394,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,135
+"2019-08-18 08:59:51",98685,97630,"IIT - Maths",SCA,"Sets, Relations And Functions","GMP 1718",1,,216
+"2019-08-18 08:59:51",98685,97643,"IIT - Maths",SCA,"Quadratic Equations","GMP 1718",0,LENGTHY,18
+"2019-08-18 08:59:51",98685,97632,"IIT - Maths",SCA,"Sets, Relations And Functions","GMP 1718",0,WTF,5
+"2019-08-18 08:59:51",98685,98680,"IIT - Maths",SCA,Limits,Brilliant,1,,128
+"2019-08-18 08:59:51",98685,97629,"IIT - Maths",SCA,Limits,"GMP 1718",0,WTF,39
+"2019-08-18 08:59:51",98685,93374,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,119
+"2019-08-18 08:59:51",98685,87233,"IIT - Maths",SCA,"Quadratic Equations","Rank Booster",1,,216
+"2019-08-18 08:59:51",98685,97631,"IIT - Maths",SCA,"Sets, Relations And Functions","GMP 1718",1,,144
+"2019-08-18 08:59:51",98685,97645,"IIT - Maths",SCA,"Quadratic Equations","GMP 1718",1,,418
+"2019-08-18 08:59:51",98685,93399,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,CALCULATION,165
+"2019-08-18 08:59:51",98685,98682,"IIT - Maths",SCA,Limits,Brilliant,0,LATERAL,127
+"2019-08-18 08:59:51",98685,97644,"IIT - Maths",SCA,"Quadratic Equations","GMP 1718",1,,172
+"2019-08-18 08:59:51",98685,98684,"IIT - Maths",SCA,Limits,Brilliant,1,,322
+"2019-08-18 08:59:51",98685,97639,"IIT - Maths",SCA,"Quadratic Equations","GMP 1718",0,LATERAL,131
+"2019-08-25 09:00:02",99887,93786,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,96
+"2019-08-25 09:00:02",99887,91560,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,80
+"2019-08-25 09:00:02",99887,99732,"IIT - Physics",SCA,"Currrent Electricity","YG File 1 - 2019",1,,72
+"2019-08-25 09:00:02",99887,91559,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,88
+"2019-08-25 09:00:02",99887,93837,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,INTERPRETATION,60
+"2019-08-25 09:00:02",99887,93923,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,383
+"2019-08-25 09:00:02",99887,90013,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,134
+"2019-08-25 09:00:02",99887,91592,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,69
+"2019-08-25 09:00:02",99887,93695,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,127
+"2019-08-25 09:00:02",99887,91578,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,100
+"2019-08-25 09:00:02",99887,93838,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,,24
+"2019-08-25 09:00:02",99887,88850,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,133
+"2019-08-25 09:00:02",99887,93856,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,,120
+"2019-08-25 09:00:02",99887,93852,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,,158
+"2019-08-25 09:00:02",99887,91607,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,318
+"2019-08-25 09:00:02",99887,99735,"IIT - Physics",SCA,"Currrent Electricity","YG File 1 - 2019",1,,245
+"2019-08-25 09:00:02",99887,93722,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,107
+"2019-08-25 09:00:02",99887,90014,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,418
+"2019-08-25 09:00:02",99887,91593,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,116
+"2019-08-25 09:00:02",99887,93782,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",0,LATERAL,118
+"2019-08-25 09:00:02",99887,98360,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure",Brilliant,1,,13
+"2019-08-25 09:00:02",99887,98220,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,6
+"2019-08-25 09:00:02",99887,98333,"IIT - Chemistry",SCA,"Periodic Table",Brilliant,1,,10
+"2019-08-25 09:00:02",99887,98226,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,17
+"2019-08-25 09:00:02",99887,98294,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry",Brilliant,1,,73
+"2019-08-25 09:00:02",99887,98281,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry",Brilliant,1,,45
+"2019-08-25 09:00:02",99887,98353,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure",Brilliant,1,,9
+"2019-08-25 09:00:02",99887,90032,"IIT - Chemistry",SCA,"Periodic Table","Rank Booster",1,,18
+"2019-08-25 09:00:02",99887,98279,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry",Brilliant,1,,140
+"2019-08-25 09:00:02",99887,90538,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,100
+"2019-08-25 09:00:02",99887,98219,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,11
+"2019-08-25 09:00:02",99887,98234,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,10
+"2019-08-25 09:00:02",99887,98384,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure",Brilliant,1,,135
+"2019-08-25 09:00:02",99887,98377,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure",Brilliant,1,,33
+"2019-08-25 09:00:02",99887,98346,"IIT - Chemistry",SCA,"Periodic Table",Brilliant,0,RECOLLECTION,45
+"2019-08-25 09:00:02",99887,98331,"IIT - Chemistry",SCA,"Periodic Table",Brilliant,1,,17
+"2019-08-25 09:00:02",99887,90548,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",0,ALIEN_CONCEPT,72
+"2019-08-25 09:00:02",99887,98274,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry",Brilliant,0,CONCEPT,97
+"2019-08-25 09:00:02",99887,94076,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,233
+"2019-08-25 09:00:02",99887,94071,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",0,CONCEPT,129
+"2019-08-25 09:00:02",99887,87871,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,119
+"2019-08-25 09:00:02",99887,97640,"IIT - Maths",SCA,"Quadratic Equations","GMP 1718",0,LATERAL,251
+"2019-08-25 09:00:02",99887,99560,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",0,LENGTHY,234
+"2019-08-25 09:00:02",99887,99593,"IIT - Maths",SCA,"Sets, Relations And Functions","YG File 1 - 2019",1,,119
+"2019-08-25 09:00:02",99887,99589,"IIT - Maths",SCA,"Differential Calculus","YG File 1 - 2019",0,LENGTHY,274
+"2019-08-25 09:00:02",99887,99578,"IIT - Maths",SCA,"Continuity And Differentiability","YG File 1 - 2019",1,,245
+"2019-08-25 09:00:02",99887,99594,"IIT - Maths",SCA,"Sets, Relations And Functions","YG File 1 - 2019",0,WTF,57
+"2019-08-25 09:00:02",99887,90587,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,LENGTHY,204
+"2019-08-25 09:00:02",99887,99574,"IIT - Maths",SCA,Limits,"YG File 1 - 2019",0,LATERAL,141
+"2019-08-25 09:00:02",99887,98681,"IIT - Maths",SCA,Limits,Brilliant,1,,114
+"2019-08-25 09:00:02",99887,99554,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",1,,134
+"2019-08-25 09:00:02",99887,99556,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",1,,191
+"2019-08-25 09:00:02",99887,99576,"IIT - Maths",SCA,Limits,"YG File 1 - 2019",1,,258
+"2019-08-25 09:00:02",99887,91881,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,103
+"2019-08-25 09:00:02",99887,99584,"IIT - Maths",SCA,"Differential Calculus","YG File 1 - 2019",0,CALCULATION,154
+"2019-08-25 09:00:02",99887,89956,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",0,LENGTHY,8
+"2019-08-25 09:00:02",99887,93373,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",1,,64
+"2019-08-25 09:00:02",99887,99569,"IIT - Maths",SCA,Limits,"YG File 1 - 2019",1,,86
+"2019-08-25 09:00:02",99887,91894,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,164
+"2019-08-25 09:00:02",99887,99581,"IIT - Maths",SCA,"Continuity And Differentiability","YG File 1 - 2019",1,,100
+"2019-09-01 09:00:02",101651,93921,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",0,CALCULATION,34
+"2019-09-01 09:00:02",101651,93847,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,,111
+"2019-09-01 09:00:02",101651,99720,"IIT - Physics",SCA,Electrostatics,"YG File 1 - 2019",0,CONCEPT,158
+"2019-09-01 09:00:02",101651,100785,"IIT - Physics",SCA,Gravitation,"YG File 1 - 2019",1,,48
+"2019-09-01 09:00:02",101651,99733,"IIT - Physics",SCA,"Currrent Electricity","YG File 1 - 2019",1,,118
+"2019-09-01 09:00:02",101651,100829,"IIT - Physics",SCA,Optics,"Rank Booster",1,,226
+"2019-09-01 09:00:02",101651,101011,"IIT - Physics",SCA,"KTG & Thermodynamics","Rank Booster",1,,261
+"2019-09-01 09:00:02",101651,99723,"IIT - Physics",SCA,Electrostatics,"YG File 1 - 2019",1,,170
+"2019-09-01 09:00:02",101651,93857,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",0,CONCEPT,247
+"2019-09-01 09:00:02",101651,91623,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,CONCEPT,90
+"2019-09-01 09:00:02",101651,93843,"IIT - Physics",SCA,"Work, Energy And Power","Rank Booster",1,,24
+"2019-09-01 09:00:02",101651,100805,"IIT - Physics",SCA,Optics,"Rank Booster",1,,59
+"2019-09-01 09:00:02",101651,91612,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,109
+"2019-09-01 09:00:02",101651,101015,"IIT - Physics",SCA,"KTG & Thermodynamics","Rank Booster",0,LATERAL,76
+"2019-09-01 09:00:02",101651,100802,"IIT - Physics",SCA,Optics,"Rank Booster",1,,69
+"2019-09-01 09:00:02",101651,101005,"IIT - Physics",SCA,"KTG & Thermodynamics","Rank Booster",1,,174
+"2019-09-01 09:00:02",101651,91624,"IIT - Physics",SCA,Electrostatics,"Rank Booster",0,CONCEPT,81
+"2019-09-01 09:00:02",101651,93694,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,88
+"2019-09-01 09:00:02",101651,93696,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,95
+"2019-09-01 09:00:02",101651,100823,"IIT - Physics",SCA,Optics,"Rank Booster",1,,199
+"2019-09-01 09:00:02",101651,93783,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,186
+"2019-09-01 09:00:02",101651,100895,"IIT - Physics",SCA,Optics,"YG File 1 - 2019",0,CALCULATION,154
+"2019-09-01 09:00:02",101651,93780,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",0,CONCEPT,107
+"2019-09-01 09:00:02",101651,99734,"IIT - Physics",SCA,"Currrent Electricity","YG File 1 - 2019",0,LENGTHY,93
+"2019-09-01 09:00:02",101651,100791,"IIT - Physics",SCA,Gravitation,"YG File 2 - 2019",0,LENGTHY,345
+"2019-09-01 09:00:02",101651,100812,"IIT - Physics",SCA,Optics,"Rank Booster",0,LATERAL,57
+"2019-09-01 09:00:02",101651,101007,"IIT - Physics",SCA,"KTG & Thermodynamics","Rank Booster",0,CALCULATION,193
+"2019-09-01 09:00:02",101651,93788,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,78
+"2019-09-01 09:00:02",101651,93698,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,239
+"2019-09-01 09:00:02",101651,101046,"IIT - Physics",SCA,"KTG & Thermodynamics","YG File 2 - 2019",0,CALCULATION,111
+"2019-09-01 09:00:02",101651,94068,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",0,RECOLLECTION,290
+"2019-09-01 09:00:02",101651,98253,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,39
+"2019-09-01 09:00:02",101651,94085,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,113
+"2019-09-01 09:00:02",101651,101094,"IIT - Chemistry",SCA,"Some Basic Principles Of Organic Chemistry","Rank Booster",1,ALIEN_CONCEPT,51
+"2019-09-01 09:00:02",101651,101313,"IIT - Chemistry",SCA,"Periodic Table","YG File 1 - 2019",1,,11
+"2019-09-01 09:00:02",101651,98387,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure",Brilliant,1,,11
+"2019-09-01 09:00:02",101651,98275,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry",Brilliant,1,,28
+"2019-09-01 09:00:02",101651,101310,"IIT - Chemistry",SCA,"Periodic Table","YG File 1 - 2019",1,,32
+"2019-09-01 09:00:02",101651,101089,"IIT - Chemistry",SCA,"Some Basic Principles Of Organic Chemistry","Rank Booster",0,CALCULATION,56
+"2019-09-01 09:00:02",101651,98244,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,21
+"2019-09-01 09:00:02",101651,82025,"IIT - Chemistry",SCA,"P - Block Elements","IIT Archives - Chemistry",1,,14
+"2019-09-01 09:00:02",101651,98295,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry",Brilliant,1,,52
+"2019-09-01 09:00:02",101651,90498,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,,54
+"2019-09-01 09:00:02",101651,101221,"IIT - Chemistry",SCA,"Chemical Thermodynamics","YG File 1 - 2019",0,CONCEPT,133
+"2019-09-01 09:00:02",101651,98221,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,37
+"2019-09-01 09:00:02",101651,101087,"IIT - Chemistry",SCA,"Some Basic Principles Of Organic Chemistry","Rank Booster",1,,45
+"2019-09-01 09:00:02",101651,101309,"IIT - Chemistry",SCA,"Periodic Table","YG File 1 - 2019",0,CALCULATION,29
+"2019-09-01 09:00:02",101651,98277,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry",Brilliant,1,,19
+"2019-09-01 09:00:02",101651,101086,"IIT - Chemistry",SCA,"Some Basic Principles Of Organic Chemistry","Rank Booster",0,ALIEN_CONCEPT,159
+"2019-09-01 09:00:02",101651,98381,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure",Brilliant,1,,51
+"2019-09-01 09:00:02",101651,98246,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,88
+"2019-09-01 09:00:02",101651,101175,"IIT - Chemistry",SCA,"Chemical Thermodynamics","Rank Booster",1,,85
+"2019-09-01 09:00:02",101651,101181,"IIT - Chemistry",SCA,"Chemical Thermodynamics","Rank Booster",0,WTF,66
+"2019-09-01 09:00:02",101651,101073,"IIT - Chemistry",SCA,"P - Block Elements","YG File 2 - 2019",0,CALCULATION,7
+"2019-09-01 09:00:02",101651,98327,"IIT - Chemistry",SCA,"Periodic Table",Brilliant,1,,111
+"2019-09-01 09:00:02",101651,94049,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,76
+"2019-09-01 09:00:02",101651,101178,"IIT - Chemistry",SCA,"Chemical Thermodynamics","Rank Booster",1,,336
+"2019-09-01 09:00:02",101651,101066,"IIT - Chemistry",SCA,"P - Block Elements","YG File 1 - 2019",1,,17
+"2019-09-01 09:00:02",101651,101090,"IIT - Chemistry",SCA,"Some Basic Principles Of Organic Chemistry","Rank Booster",1,,112
+"2019-09-01 09:00:02",101651,101071,"IIT - Chemistry",SCA,"P - Block Elements","YG File 2 - 2019",1,,41
+"2019-09-01 09:00:02",101651,91679,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,79
+"2019-09-01 09:00:02",101651,99596,"IIT - Maths",SCA,"Sets, Relations And Functions","YG File 1 - 2019",1,,99
+"2019-09-01 09:00:02",101651,90572,"IIT - Maths",SCA,"Sets, Relations And Functions","Rank Booster",0,LATERAL,107
+"2019-09-01 09:00:02",101651,91704,"IIT - Maths",SCA,Trigonometry,"Rank Booster",0,LENGTHY,52
+"2019-09-01 09:00:02",101651,91666,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,332
+"2019-09-01 09:00:02",101651,101527,"IIT - Maths",SCA,Matrices,"YG File 1 - 2019",1,,191
+"2019-09-01 09:00:02",101651,91664,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,157
+"2019-09-01 09:00:02",101651,101567,"IIT - Maths",SCA,Determinants,"Rank Booster",1,,26
+"2019-09-01 09:00:02",101651,101562,"IIT - Maths",SCA,Determinants,"Rank Booster",1,,39
+"2019-09-01 09:00:02",101651,91668,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,182
+"2019-09-01 09:00:02",101651,101598,"IIT - Maths",SCA,Matrices,"Rank Booster",1,,97
+"2019-09-01 09:00:02",101651,91696,"IIT - Maths",SCA,Trigonometry,"Rank Booster",1,,204
+"2019-09-01 09:00:02",101651,101648,"IIT - Maths",SCA,Limits,"YG File 2 - 2019",1,,466
+"2019-09-01 09:00:02",101651,91960,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",0,CALCULATION,156
+"2019-09-01 09:00:02",101651,91882,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,334
+"2019-09-01 09:00:02",101651,99570,"IIT - Maths",SCA,Limits,"YG File 1 - 2019",1,,76
+"2019-09-01 09:00:02",101651,101579,"IIT - Maths",SCA,Matrices,"Rank Booster",1,,61
+"2019-09-01 09:00:02",101651,101576,"IIT - Maths",SCA,Matrices,"Rank Booster",1,,49
+"2019-09-01 09:00:02",101651,99555,"IIT - Maths",SCA,"Quadratic Equations","YG File 1 - 2019",0,LATERAL,339
+"2019-09-01 09:00:02",101651,99605,"IIT - Maths",SCA,"Sets, Relations And Functions","YG File 1 - 2019",1,,154
+"2019-09-01 09:00:02",101651,91703,"IIT - Maths",SCA,Trigonometry,"Rank Booster",0,LATERAL,44
+"2019-09-01 09:00:02",101651,101575,"IIT - Maths",SCA,Matrices,"Rank Booster",1,,104
+"2019-09-01 09:00:02",101651,101561,"IIT - Maths",SCA,Determinants,"Rank Booster",0,LATERAL,539
+"2019-09-01 09:00:02",101651,98683,"IIT - Maths",SCA,Limits,Brilliant,1,,180
+"2019-09-01 09:00:02",101651,91891,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,151
+"2019-09-01 09:00:02",101651,91886,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,106
+"2019-09-01 09:00:02",101651,101580,"IIT - Maths",SCA,Matrices,"Rank Booster",1,,48
+"2019-09-01 09:00:02",101651,91896,"IIT - Maths",SCA,"Differential Calculus","Rank Booster",1,,113
+"2019-09-01 09:00:02",101651,91962,"IIT - Maths",SCA,"Continuity And Differentiability","Rank Booster",1,,57
+"2019-09-01 09:00:02",101651,101563,"IIT - Maths",SCA,Determinants,"Rank Booster",1,,73
+"2019-09-15 09:29:11",103897,91635,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",1,,258
+"2019-09-15 09:29:11",103897,99741,"IIT - Physics",SCA,"Currrent Electricity","YG File 1 - 2019",1,,58
+"2019-09-15 09:29:11",103897,101006,"IIT - Physics",SCA,"KTG & Thermodynamics","Rank Booster",1,,126
+"2019-09-15 09:29:11",103897,100806,"IIT - Physics",SCA,Optics,"Rank Booster",1,,120
+"2019-09-15 09:29:11",103897,103803,"IIT - Physics",SCA,"Magnetic Effects Of Current And Magnetism","Rank Booster",1,,49
+"2019-09-15 09:29:11",103897,103804,"IIT - Physics",SCA,"Magnetic Effects Of Current And Magnetism","Rank Booster",1,,289
+"2019-09-15 09:29:11",103897,103814,"IIT - Physics",SCA,"Magnetic Effects Of Current And Magnetism","Rank Booster",1,,187
+"2019-09-15 09:29:11",103897,91598,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,97
+"2019-09-15 09:29:11",103897,91561,"IIT - Physics",SCA,Kinematics,"Rank Booster",1,,196
+"2019-09-15 09:29:11",103897,91600,"IIT - Physics",SCA,Electrostatics,"Rank Booster",1,,258
+"2019-09-15 09:29:11",103897,100803,"IIT - Physics",SCA,Optics,"Rank Booster",0,INTERPRETATION,163
+"2019-09-15 09:29:11",103897,101008,"IIT - Physics",SCA,"KTG & Thermodynamics","Rank Booster",1,,34
+"2019-09-15 09:29:11",103897,91632,"IIT - Physics",SCA,"Rotational Motion","Rank Booster",0,CALCULATION,449
+"2019-09-15 09:29:11",103897,103813,"IIT - Physics",SCA,"Magnetic Effects Of Current And Magnetism","Rank Booster",1,,65
+"2019-09-15 09:29:11",103897,90017,"IIT - Physics",SCA,"Laws Of Motion","Rank Booster",1,,212
+"2019-09-15 09:29:11",103897,93938,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,68
+"2019-09-15 09:29:11",103897,100804,"IIT - Physics",SCA,Optics,"Rank Booster",1,,69
+"2019-09-15 09:29:11",103897,93922,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,78
+"2019-09-15 09:29:11",103897,100815,"IIT - Physics",SCA,Optics,"Rank Booster",1,,198
+"2019-09-15 09:29:11",103897,93920,"IIT - Physics",SCA,"Currrent Electricity","Rank Booster",1,,82
+"2019-09-15 09:29:11",103897,101039,"IIT - Physics",NT,"KTG & Thermodynamics","Rank Booster",1,,84
+"2019-09-15 09:29:11",103897,103847,"IIT - Physics",NT,"Magnetic Effects Of Current And Magnetism","Rank Booster",0,RECOLLECTION,298
+"2019-09-15 09:29:11",103897,91626,"IIT - Physics",NT,Electrostatics,"Rank Booster",1,,292
+"2019-09-15 09:29:11",103897,93941,"IIT - Physics",NT,"Currrent Electricity","Rank Booster",1,,150
+"2019-09-15 09:29:11",103897,100843,"IIT - Physics",NT,Optics,"Rank Booster",1,,39
+"2019-09-15 09:29:11",103897,98354,"IIT - Chemistry",SCA,"Chemical Bonding And Molecular Strucure",Brilliant,1,,33
+"2019-09-15 09:29:11",103897,93448,"IIT - Chemistry",SCA,Solutions,"Rank Booster",0,WTF,252
+"2019-09-15 09:29:11",103897,101179,"IIT - Chemistry",SCA,"Chemical Thermodynamics","Rank Booster",1,,155
+"2019-09-15 09:29:11",103897,94348,"IIT - Chemistry",SCA,Equilibrium,"Rank Booster",0,RECOLLECTION,297
+"2019-09-15 09:29:11",103897,101158,"IIT - Chemistry",SCA,"Some Basic Principles Of Organic Chemistry","Rank Booster",0,CONCEPT,113
+"2019-09-15 09:29:11",103897,101088,"IIT - Chemistry",SCA,"Some Basic Principles Of Organic Chemistry","Rank Booster",1,,140
+"2019-09-15 09:29:11",103897,90490,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,,18
+"2019-09-15 09:29:11",103897,98223,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,21
+"2019-09-15 09:29:11",103897,90494,"IIT - Chemistry",SCA,"P - Block Elements","Rank Booster",1,,84
+"2019-09-15 09:29:11",103897,93470,"IIT - Chemistry",SCA,Solutions,"Rank Booster",1,,69
+"2019-09-15 09:29:11",103897,94107,"IIT - Chemistry",SCA,"Some Basic Concepts In Chemistry","Rank Booster",1,,80
+"2019-09-15 09:29:11",103897,98332,"IIT - Chemistry",SCA,"Periodic Table",Brilliant,1,,68
+"2019-09-15 09:29:11",103897,82020,"IIT - Chemistry",SCA,"P - Block Elements","IIT Archives - Chemistry",1,,100
+"2019-09-15 09:29:11",103897,90550,"IIT - Chemistry",SCA,"States Of Matter","Rank Booster",1,,57
+"2019-09-15 09:29:11",103897,98222,"IIT - Chemistry",SCA,"Atomic Structure",Brilliant,1,,52
