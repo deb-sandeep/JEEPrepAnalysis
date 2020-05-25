@@ -1,0 +1,72 @@
+id,subject_name,section,topic_name
+104,"IIT - Chemistry",Physical,"Some Basic Concepts In Chemistry"
+105,"IIT - Chemistry",Physical,"States Of Matter"
+106,"IIT - Chemistry",Physical,"Atomic Structure"
+107,"IIT - Chemistry",Physical,"Chemical Thermodynamics"
+108,"IIT - Chemistry",Physical,Solutions
+109,"IIT - Chemistry",Physical,Equilibrium
+110,"IIT - Chemistry",Physical,"Redox Reactions"
+111,"IIT - Chemistry",Physical,"Chemical Kinetics and Nuclear Chemistry"
+112,"IIT - Chemistry",Physical,"Surface Chemistry"
+114,"IIT - Chemistry",Inorganic,"Periodic Table"
+115,"IIT - Chemistry",Inorganic,"Chemical Bonding And Molecular Strucure"
+116,"IIT - Chemistry",Inorganic,Metallurgy
+117,"IIT - Chemistry",Inorganic,Hydrogen
+118,"IIT - Chemistry",Inorganic,"S - Block Elements"
+119,"IIT - Chemistry",Inorganic,"P - Block Elements"
+120,"IIT - Chemistry",Inorganic,"D - And F - Block Elements"
+121,"IIT - Chemistry",Inorganic,"Co-ordination Compounds"
+122,"IIT - Chemistry",Inorganic,"Environmental Chemistry"
+123,"IIT - Chemistry",Organic,"Purification And Characterisation Of Organic Compounds"
+124,"IIT - Chemistry",Organic,"Some Basic Principles Of Organic Chemistry"
+125,"IIT - Chemistry",Organic,Hydrocarbons
+126,"IIT - Chemistry",Organic,"Organic Compounds Containing Halogens"
+127,"IIT - Chemistry",Organic,"Organic Compounds Containing Oxygen"
+128,"IIT - Chemistry",Organic,"Organic Compounds Containing Nitrogen"
+134,"IIT - Chemistry",Practical,"Chemistry In Everyday Life"
+135,"IIT - Chemistry",Practical,"Practical Chemistry"
+136,"IIT - Physics","General Physics","Physics And Measurement"
+137,"IIT - Physics","General Physics","Practical Skills"
+138,"IIT - Physics",Mechanics,Kinematics
+139,"IIT - Physics",Mechanics,"Laws Of Motion"
+140,"IIT - Physics",Mechanics,"Work, Energy And Power"
+141,"IIT - Physics",Mechanics,"Rotational Motion"
+142,"IIT - Physics",Mechanics,Gravitation
+143,"IIT - Physics",Mechanics,"Properties Of Solids And Liquids"
+144,"IIT - Physics",Optics,Optics
+145,"IIT - Physics","Modern Physics","Atoms and Radiation"
+147,"IIT - Physics","Modern Physics","Electronic Devices"
+148,"IIT - Physics","Modern Physics","Communication Systems"
+149,"IIT - Physics",Waves,"Oscillations And Waves"
+150,"IIT - Physics","Heat and Thermodynamics","KTG & Thermodynamics"
+152,"IIT - Physics",Electricity,Electrostatics
+153,"IIT - Physics",Electricity,"Currrent Electricity"
+154,"IIT - Physics",Magnetism,"Magnetic Effects Of Current And Magnetism"
+155,"IIT - Physics",Magnetism,"EM Induction & AC"
+156,"IIT - Physics",Magnetism,"Electromagnetic Waves"
+157,"IIT - Maths",Algebra,"Sets, Relations And Functions"
+158,"IIT - Maths",Algebra,"Complex Numbers"
+159,"IIT - Maths",Algebra,"Quadratic Equations"
+160,"IIT - Maths",Algebra,Matrices
+161,"IIT - Maths",Algebra,Determinants
+162,"IIT - Maths",Algebra,"Permutations And Combinations"
+163,"IIT - Maths",Algebra,"Mathematical Induction"
+164,"IIT - Maths",Algebra,"Binomial Theorem"
+165,"IIT - Maths",Algebra,"Sequences And Series"
+166,"IIT - Maths",Algebra,"Statistics And Probability"
+167,"IIT - Maths",Algebra,"Mathematical Reasoning"
+168,"IIT - Maths",Trigonometry,Trigonometry
+169,"IIT - Maths","Analytical Geometry - 2D","Co-ordinate Geometry"
+170,"IIT - Maths","Analytical Geometry - 3D","Three Dimensional Geometry"
+171,"IIT - Maths","Differential Calculus",Limits
+172,"IIT - Maths","Differential Calculus","Continuity And Differentiability"
+173,"IIT - Maths","Differential Calculus","Differential Calculus"
+174,"IIT - Maths","Integral Calculus","Integral Calculus"
+175,"IIT - Maths","Integral Calculus","Differential Equations"
+176,"IIT - Maths",Vectors,"Vector Algebra"
+177,"IIT - Maths",Algebra,Inequalities
+178,"IIT - Maths",Algebra,Logarithms
+179,"IIT - Chemistry",Organic,Biomolecules
+180,"IIT - Chemistry",Inorganic,"Qualitative Inorganic Analysis"
+181,"IIT - Chemistry",Organic,"Organic Reactions"
+182,"IIT - Chemistry",Physical,Electrochemistry
