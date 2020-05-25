@@ -51,7 +51,6 @@ RC$competence <- c(
   "LATERAL", 
   "ALIEN_CONCEPT", 
   "WTF", 
-  "LENGTHY", 
   "WTF_LATERAL" 
 )
 
@@ -60,5 +59,6 @@ RC$behavioral <- c(
   "INTERPRETATION", 
   "STUPID", 
   "JUDGEMENT_ERROR", 
-  "UNWARRANTED_RISK"
+  "UNWARRANTED_RISK",
+  "LENGTHY"
 )

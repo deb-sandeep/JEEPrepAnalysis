@@ -11,7 +11,7 @@ source( paste0( getwd(), "/R/06_utility_functions.R" ) )
 # Define some configuration data for this analysis
 # START_DATE - The date from which we analyze the dataset. Any data before this
 # date will be ignored for this analysis.
-START_DATE = as.Date( "2019-05-19" ) 
+START_DATE = as.Date( "2019-11-01" ) 
 
 # Load data frames
 topics <- loadDataFrame( "topic_master.csv" )
@@ -47,12 +47,12 @@ analyzeDataInRange <- function( startDate, endDate ) {
     # Select a subset of attributes relevant for analysis
     select( date_attempted, subject_name, topic_name, is_correct, root_cause, time_spent ) %>%
     
+    # Classify the error root cause as competence or behavior oriented
+    mutate( rc_attribution = ifelse( root_cause %in% RC$competence & is_correct==0, "RC_C", 
+                                     ifelse( root_cause %in% RC$behavioral & is_correct==0, "RC_B", "" ) ) ) %>%
+  
     # Sort the tibble 
     arrange( subject_name, topic_name, is_correct, root_cause ) %>%
-    
-    # Classify the error rrot cause as competence or behavior oriented
-    mutate( rc_attribution = ifelse( !is_correct && root_cause %in% RC$competence, "RC_C", 
-                                     ifelse( !is_correct && root_cause %in% RC$behavioral, "RC_B", "" ) ) ) %>%
     
     # Group data by subject and topic - we want to keep analysis at a topic level
     group_by( subject_name, topic_name ) %>%
@@ -70,7 +70,7 @@ analyzeDataInRange <- function( startDate, endDate ) {
     filter( (num_questions - num_rc_b) > 0 ) %>%
     
     # Compute efficiency - note that we are ignoring    
-    mutate( efficiency = (num_correct / (num_questions - num_rc_b))*100,
+    mutate( efficiency = ((num_questions - num_rc_c) / num_questions )*100,
             marker = endDate ) %>%
     
     # Ungroup the data frame
@@ -133,7 +133,6 @@ plotTopicEfficiencyTimeSeries <- function( topicTimeSeries, subjectName, topicNa
     scale_y_continuous( sec.axis = sec_axis( ~./numQScaleFactor, 
                                              name="Num questions" ) ) +
     labs( title = topic,
-          subtitle = subject,
           x = "Date", 
           y = "Efficiency" ) +
     theme( plot.title = element_text( hjust = 0.5, size=10 ),
@@ -145,6 +144,8 @@ plotTopicEfficiencyTimeSeries <- function( topicTimeSeries, subjectName, topicNa
   
   savePlotImage( plot, subjectName, topicName )
 }
+
+# ------------------------------- Processing logic -----------------------------
 
 # For each window calculate efficiencies of all topics and append the analysis
 # data into the master dataframe
