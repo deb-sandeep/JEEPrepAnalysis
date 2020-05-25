@@ -11,7 +11,7 @@ source( paste0( getwd(), "/R/06_utility_functions.R" ) )
 # Define some configuration data for this analysis
 # START_DATE - The date from which we analyze the dataset. Any data before this
 # date will be ignored for this analysis.
-START_DATE = today() - months(6)
+START_DATE = as.Date( "2019-05-19" ) 
 
 # Load data frames
 topics <- loadDataFrame( "topic_master.csv" )
@@ -96,24 +96,39 @@ getTopicTimeSeries <- function( subject, topic ) {
     return (topic_ts_df)
 }
 
+mkdir <- function( folderPath ) {
+  if( !file.exists( folderPath ) ) {
+    dir.create( folderPath )
+  }
+}
+
+savePlotImage <- function( plot, subjectName, topicName ) {
+  mkdir( paste0( WD$output, "/", subject ) )
+  mkdir( paste0( WD$output, "/", subject, "/", topic ) )
+
+  outputFile <- paste0( WD$output, "/", subject, "/", topic, "/graph.png" )
+  ggsave( outputFile, plot=plot, width=10, height=6, units = "cm" )
+  print( paste( "Wrote img - ", outputFile ) )
+}
+
 # Plots the topic efficiency timeseries 
 plotTopicEfficiencyTimeSeries <- function( topicTimeSeries, subjectName, topicName ) {
   
   numQScaleFactor <- 100/(max( topicTimeSeries$num_questions )*2)
   
-  ggplot( topicTimeSeries, aes( x=marker ) )  + 
+  plot <- ggplot( topicTimeSeries, aes( x=marker ) )  + 
     scale_x_date( date_breaks = "1 month", 
                   date_labels = "%b" ) +
     geom_bar( aes( y=num_questions*numQScaleFactor ), 
               stat="identity", 
               fill="white", 
-              colour="grey" ) +
+              colour="lightgrey" ) +
     geom_line( aes( y=efficiency ), 
                stat="identity", 
                color="blue" ) +
     geom_point( aes( y=efficiency ), 
                 shape=21, 
-                size=3, 
+                size=1, 
                 fill="lightblue" ) +
     scale_y_continuous( sec.axis = sec_axis( ~./numQScaleFactor, 
                                              name="Num questions" ) ) +
@@ -121,8 +136,14 @@ plotTopicEfficiencyTimeSeries <- function( topicTimeSeries, subjectName, topicNa
           subtitle = subject,
           x = "Date", 
           y = "Efficiency" ) +
-    theme( plot.title = element_text( hjust = 0.5 ),
-           plot.subtitle = element_text( hjust = 0.5 ) )
+    theme( plot.title = element_text( hjust = 0.5, size=10 ),
+           plot.subtitle = element_text( hjust = 0.5, size=9 ),
+           axis.title = element_text( size=7 ),
+           axis.text = element_text( size=6 ),
+           axis.text.x = element_text( size=6 ),
+           axis.text.y = element_text( size=6 ) )
+  
+  savePlotImage( plot, subjectName, topicName )
 }
 
 # For each window calculate efficiencies of all topics and append the analysis
@@ -131,12 +152,20 @@ for( window in time_windows ) {
   startDate = as.Date( window[[1]] )
   endDate = as.Date( window[[2]] )
   window_df <- analyzeDataInRange( startDate, endDate )
-  window_efficiencies <- rbind( window_efficiencies, window_df )
+  if( nrow( window_df ) > 0 ) {
+    window_efficiencies <- rbind( window_efficiencies, window_df )
+  }
 }
 
-subject <- "IIT - Maths"
-topic <- "Trigonometry"
-
-topic_timeseries <- getTopicTimeSeries( subject, topic )
-plotTopicEfficiencyTimeSeries( topic_timeseries, subject, topic )
-
+for( i in 1:nrow(topics) ) {
+  topicRow <- topics[i, ]
+  subject <- topicRow$subject_name
+  topic <- topicRow$topic_name
+  
+  topic_timeseries <- getTopicTimeSeries( subject, topic )
+  
+  if( nrow( topic_timeseries ) > 0 ) {
+    print( paste( "Plotting for ", subject, " ", topic ) )
+    plotTopicEfficiencyTimeSeries( topic_timeseries, subject, topic )
+  }
+}

@@ -8,7 +8,7 @@
 getTimeWindows <- function( startDate=today() - months(6), 
                             endDate=today(), 
                             windowGapInDays=7, 
-                            windowSizeInDays=15 ) {
+                            windowSizeInDays=21 ) {
   
   print( "Creating time windows with parameters - " ) 
   print( paste( "   startDate        = ", startDate ) ) 
