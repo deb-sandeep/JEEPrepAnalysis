@@ -1,0 +1,22 @@
+SELECT 
+    ta.date_attempted,
+    ta.test_id,
+    tqa.test_question_id,
+    mqm.subject_name,
+    mqm.question_type,
+    tm.topic_name,
+    bm.book_short_name,
+    tqa.is_correct,
+    tqa.root_cause,
+    tqa.time_spent
+FROM 
+    test_question_attempt tqa,
+    mocktest_question_master mqm,
+    test_attempt ta,
+    topic_master tm,
+    book_master bm
+WHERE
+    tqa.test_question_id = mqm.id AND 
+    tqa.test_attempt_id = ta.id AND 
+    mqm.book_id = bm.id AND 
+    mqm.topic_id = tm.id ;
