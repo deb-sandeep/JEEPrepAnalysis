@@ -1,7 +1,5 @@
 SELECT 
     ta.date_attempted,
-    ta.test_id,
-    tqa.test_question_id,
     mqm.subject_name,
     mqm.question_type,
     tm.topic_name,

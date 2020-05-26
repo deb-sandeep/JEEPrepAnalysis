@@ -2,6 +2,7 @@ library( dplyr )
 library( lubridate )
 library( tibble )
 library( ggplot2 )
+library( RMySQL )
 
 setwd( "~/projects/source/JEEPrepAnalysis" )
 
@@ -14,8 +15,8 @@ source( paste0( getwd(), "/R/06_utility_functions.R" ) )
 START_DATE = as.Date( "2019-11-01" ) 
 
 # Load data frames
-topics <- loadDataFrame( "topic_master.csv" )
-attempt_details <- loadDataFrame( "test_attempt_dataset.csv")
+topics <- loadDataFrameFromFile( "topic_master.csv" )
+attempt_details <- loadTestAttemptDataset( src="db", hostname="192.168.0.117" )
 
 # Calculate the time windows for which topic efficiencies need to be calculated
 time_windows <- getTimeWindows( START_DATE )

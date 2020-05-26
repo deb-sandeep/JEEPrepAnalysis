@@ -16,7 +16,11 @@ getTimeWindows <- function( startDate=today() - months(6),
   print( paste( "   windowGapInDays  = ", windowGapInDays ) ) 
   print( paste( "   windowSizeInDays = ", windowSizeInDays ) ) 
   
-  week_markers <- rev( seq.Date( endDate, startDate, "-1 week") )
+  week_markers <- seq.Date( startDate, endDate, "1 week")
+  if( tail( week_markers, n=1 ) != today() ) {
+    week_markers <- append( week_markers, today() )
+  }
+  
   time_windows <- list()
   
   for( marker in week_markers ) {
@@ -28,8 +32,67 @@ getTimeWindows <- function( startDate=today() - months(6),
 }
 
 # Reads the specified CSV file from the wd$data directory and returns a data frame
-loadDataFrame <- function( fileName, folder=WD$data ) {
+loadDataFrameFromFile <- function( fileName, folder=WD$data ) {
   df <- read.csv( paste0( folder, "/", fileName ), header = TRUE )
   return (df)
 }
+
+# Loads test attempt dataset
+loadTestAttemptDataset <- function( src="file", hostname="localhost" ) {
+  if( src == "file" ) {
+    print( "Loading test attempt data from local file." )
+    df <- loadDataFrameFromFile( "test_attempt_dataset.csv")
+    return ( prepareTestAttemptDataset( df ) ) 
+  }
+  else if( src == "db" ) {
+    print( paste0( "Loading test attempt data from database at ", hostname ) )
+    dbConn = dbConnect( MySQL(), 
+                        user = 'root', password = Sys.getenv( "DB_PASSWORD"), 
+                        dbname = 'sconsole', host = hostname )
+    
+    rs = dbSendQuery( dbConn, 
+                      "SELECT 
+                        ta.date_attempted,
+                        mqm.subject_name,
+                        mqm.question_type,
+                        tm.topic_name,
+                        bm.book_short_name,
+                        tqa.is_correct,
+                        tqa.root_cause,
+                        tqa.time_spent
+                      FROM 
+                        test_question_attempt tqa,
+                        mocktest_question_master mqm,
+                        test_attempt ta,
+                        topic_master tm,
+                        book_master bm
+                      WHERE
+                        tqa.test_question_id = mqm.id AND 
+                        tqa.test_attempt_id = ta.id AND 
+                        mqm.book_id = bm.id AND 
+                        mqm.topic_id = tm.id" )
+    
+    df <- fetch( rs, n = -1 )
+    dbDisconnect( dbConn )
+    
+    return ( prepareTestAttemptDataset( df ) ) 
+  }
+  else {
+    print( "Unknown test attempt dataset source. Should be file | db" )
+  }
+}
+
+prepareTestAttemptDataset <- function( df ) {
+  
+#  df$date_attempted  <- as.Date( df$date_attempted )
+#  df$subject_name    <- as.factor( df$subject_name )
+#  df$question_type   <- as.factor( df$question_type  )
+#  df$topic_name      <- as.factor( df$topic_name )
+#  df$book_short_name <- as.factor( df$book_short_name )
+#  df$is_correct      <- as.factor( df$is_correct )
+#  df$root_cause      <- as.factor( df$root_cause )
+  return ( df )
+}
+
+
 
