@@ -38,11 +38,14 @@ loadDataFrameFromFile <- function( fileName, folder=WD$data ) {
 }
 
 # Loads test attempt dataset
-loadTestAttemptDataset <- function( src="file", hostname="localhost" ) {
+loadTestAttemptDataset <- function( src="file", 
+                                    hostname="localhost",
+                                    saveAsCSV=FALSE ) {
+  
   if( src == "file" ) {
     print( "Loading test attempt data from local file." )
     df <- loadDataFrameFromFile( "test_attempt_dataset.csv")
-    return ( prepareTestAttemptDataset( df ) ) 
+    return ( df ) 
   }
   else if( src == "db" ) {
     print( paste0( "Loading test attempt data from database at ", hostname ) )
@@ -75,24 +78,18 @@ loadTestAttemptDataset <- function( src="file", hostname="localhost" ) {
     df <- fetch( rs, n = -1 )
     dbDisconnect( dbConn )
     
-    return ( prepareTestAttemptDataset( df ) ) 
+    if( saveAsCSV ) {
+      print( "Saving dataframe as local csv" )
+      write.csv( df, paste0( WD$data, "/test_attempt_dataset.csv" ), row.names = FALSE )
+    }
+    
+    return ( df )
   }
   else {
     print( "Unknown test attempt dataset source. Should be file | db" )
   }
 }
 
-prepareTestAttemptDataset <- function( df ) {
-  
-#  df$date_attempted  <- as.Date( df$date_attempted )
-#  df$subject_name    <- as.factor( df$subject_name )
-#  df$question_type   <- as.factor( df$question_type  )
-#  df$topic_name      <- as.factor( df$topic_name )
-#  df$book_short_name <- as.factor( df$book_short_name )
-#  df$is_correct      <- as.factor( df$is_correct )
-#  df$root_cause      <- as.factor( df$root_cause )
-  return ( df )
-}
 
 
 
