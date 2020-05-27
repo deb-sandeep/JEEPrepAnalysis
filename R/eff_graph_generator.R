@@ -7,8 +7,8 @@ library( RMySQL )
 # Set the working directory to the project folder.
 #setwd( "~/projects/source/JEEPrepAnalysis" )
 
-source( paste0( getwd(), "/R/05_ref_data.R" ) ) 
-source( paste0( getwd(), "/R/06_utility_functions.R" ) )
+source( paste0( getwd(), "/R/include/ref_data.R" ) ) 
+source( paste0( getwd(), "/R/include/utility_functions.R" ) )
 
 # Define some configuration data for this analysis
 # START_DATE - The date from which we analyze the dataset. Any data before this
