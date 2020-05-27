@@ -17,7 +17,7 @@ START_DATE = as.Date( "2019-11-01" )
 
 # Load data frames
 topics <- loadDataFrameFromFile( "topic_master.csv" )
-attempt_details <- loadTestAttemptDataset( src="file", 
+attempt_details <- loadTestAttemptDataset( src="db", 
                                            hostname="192.168.0.117",
                                            saveAsCSV=TRUE )
 
@@ -53,7 +53,8 @@ analyzeDataInRange <- function( startDate, endDate ) {
     
     # Classify the error root cause as competence or behavior oriented
     mutate( rc_attribution = ifelse( root_cause %in% RC$competence & is_correct==0, "RC_C", 
-                                     ifelse( root_cause %in% RC$behavioral & is_correct==0, "RC_B", "" ) ) ) %>%
+                                     ifelse( root_cause %in% RC$behavioral & is_correct==0, "RC_B", 
+                                             ifelse( is_correct==0, "RC_C", "" ) ) ) ) %>%
   
     # Sort the tibble 
     arrange( subject_name, topic_name, is_correct, root_cause ) %>%
